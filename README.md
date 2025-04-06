@@ -11,7 +11,7 @@
 
 </div></font>
 
-**[2025/02/10]** 🔥 We are proud to open-source **MME-Unify**, a comprehensive evaluation framework designed to systematically assess U-MLLMs. Our benchmark includes:
+**[2025/04/07]** 🔥 We are proud to open-source **MME-Unify**, a comprehensive evaluation framework designed to systematically assess U-MLLMs. Our benchmark includes:
 
 - A **Standardized Traditional Task Evaluation** We sample from 12 datasets, covering 10 tasks with 30 subtasks, ensuring consistent and fair comparisons across studies.
 - A **Unified Task Assessment** We introduce five novel tasks testing multimodal reasoning, including image editing, commonsense QA with image generation, and geometric reasoning.
