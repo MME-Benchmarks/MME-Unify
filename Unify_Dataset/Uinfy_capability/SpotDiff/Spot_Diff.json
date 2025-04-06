@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 13,
+        "data": {
+            "img_a": "Spot_Diff/00858_14/img_a.jpg",
+            "img_b": "Spot_Diff/00858_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00858_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00858_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00858_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00858_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 11",
+            "C: 19",
+            "D: 10"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 48,
+        "data": {
+            "img_a": "Spot_Diff/00871_13/img_a.jpg",
+            "img_b": "Spot_Diff/00871_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00871_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00871_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00871_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00871_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 17",
+            "B: 13",
+            "C: 10",
+            "D: 9"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 39,
+        "data": {
+            "img_a": "Spot_Diff/00834_15/img_a.jpg",
+            "img_b": "Spot_Diff/00834_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00834_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00834_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00834_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00834_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 20",
+            "B: 12",
+            "C: 10",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 32,
+        "data": {
+            "img_a": "Spot_Diff/00818_16/img_a.jpg",
+            "img_b": "Spot_Diff/00818_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00818_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00818_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00818_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00818_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 16",
+            "C: 12",
+            "D: 17"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 2,
+        "data": {
+            "img_a": "Spot_Diff/00802_15/img_a.jpg",
+            "img_b": "Spot_Diff/00802_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00802_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00802_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00802_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00802_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 11",
+            "B: 10",
+            "C: 14",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 79,
+        "data": {
+            "img_a": "Spot_Diff/00780_16/img_a.jpg",
+            "img_b": "Spot_Diff/00780_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00780_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00780_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00780_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00780_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 17",
+            "B: 16",
+            "C: 12",
+            "D: 20"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 74,
+        "data": {
+            "img_a": "Spot_Diff/00794_15/img_a.jpg",
+            "img_b": "Spot_Diff/00794_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00794_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00794_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00794_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00794_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 18",
+            "C: 11",
+            "D: 19"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 23,
+        "data": {
+            "img_a": "Spot_Diff/00775_15/img_a.jpg",
+            "img_b": "Spot_Diff/00775_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00775_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00775_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00775_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00775_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 20",
+            "C: 11",
+            "D: 12"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 75,
+        "data": {
+            "img_a": "Spot_Diff/00851_14/img_a.jpg",
+            "img_b": "Spot_Diff/00851_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00851_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00851_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00851_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00851_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 19",
+            "C: 12",
+            "D: 15"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 58,
+        "data": {
+            "img_a": "Spot_Diff/00843_14/img_a.jpg",
+            "img_b": "Spot_Diff/00843_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00843_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00843_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00843_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00843_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 11",
+            "C: 18",
+            "D: 14"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 72,
+        "data": {
+            "img_a": "Spot_Diff/00773_16/img_a.jpg",
+            "img_b": "Spot_Diff/00773_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00773_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00773_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00773_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00773_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 17",
+            "C: 12",
+            "D: 18"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 7,
+        "data": {
+            "img_a": "Spot_Diff/00825_15/img_a.jpg",
+            "img_b": "Spot_Diff/00825_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00825_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00825_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00825_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00825_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 19",
+            "C: 11",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 41,
+        "data": {
+            "img_a": "Spot_Diff/00845_14/img_a.jpg",
+            "img_b": "Spot_Diff/00845_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00845_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00845_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00845_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00845_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 15",
+            "C: 13",
+            "D: 16"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 83,
+        "data": {
+            "img_a": "Spot_Diff/00836_14/img_a.jpg",
+            "img_b": "Spot_Diff/00836_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00836_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00836_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00836_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00836_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 14",
+            "C: 11",
+            "D: 17"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 34,
+        "data": {
+            "img_a": "Spot_Diff/00772_15/img_a.jpg",
+            "img_b": "Spot_Diff/00772_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00772_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00772_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00772_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00772_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 20",
+            "B: 15",
+            "C: 12",
+            "D: 14"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 4,
+        "data": {
+            "img_a": "Spot_Diff/00807_15/img_a.jpg",
+            "img_b": "Spot_Diff/00807_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00807_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00807_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00807_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00807_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 18",
+            "B: 19",
+            "C: 12",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 57,
+        "data": {
+            "img_a": "Spot_Diff/00795_15/img_a.jpg",
+            "img_b": "Spot_Diff/00795_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00795_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00795_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00795_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00795_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 17",
+            "C: 11",
+            "D: 12"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 59,
+        "data": {
+            "img_a": "Spot_Diff/00790_16/img_a.jpg",
+            "img_b": "Spot_Diff/00790_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00790_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00790_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00790_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00790_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 15",
+            "C: 19",
+            "D: 18"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 46,
+        "data": {
+            "img_a": "Spot_Diff/00859_14/img_a.jpg",
+            "img_b": "Spot_Diff/00859_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00859_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00859_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00859_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00859_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 12",
+            "C: 10",
+            "D: 9"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 100,
+        "data": {
+            "img_a": "Spot_Diff/00857_14/img_a.jpg",
+            "img_b": "Spot_Diff/00857_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00857_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00857_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00857_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00857_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 13",
+            "B: 14",
+            "C: 10",
+            "D: 18"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 84,
+        "data": {
+            "img_a": "Spot_Diff/00801_15/img_a.jpg",
+            "img_b": "Spot_Diff/00801_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00801_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00801_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00801_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00801_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 11",
+            "B: 16",
+            "C: 19",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 25,
+        "data": {
+            "img_a": "Spot_Diff/00849_14/img_a.jpg",
+            "img_b": "Spot_Diff/00849_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00849_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00849_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00849_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00849_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 18",
+            "B: 17",
+            "C: 13",
+            "D: 14"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 15,
+        "data": {
+            "img_a": "Spot_Diff/00786_15/img_a.jpg",
+            "img_b": "Spot_Diff/00786_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00786_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00786_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00786_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00786_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 17",
+            "B: 10",
+            "C: 15",
+            "D: 20"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 16,
+        "data": {
+            "img_a": "Spot_Diff/00861_14/img_a.jpg",
+            "img_b": "Spot_Diff/00861_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00861_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00861_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00861_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00861_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 19",
+            "B: 16",
+            "C: 14",
+            "D: 15"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 101,
+        "data": {
+            "img_a": "Spot_Diff/00816_16/img_a.jpg",
+            "img_b": "Spot_Diff/00816_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00816_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00816_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00816_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00816_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 15",
+            "C: 13",
+            "D: 21"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 77,
+        "data": {
+            "img_a": "Spot_Diff/00874_13/img_a.jpg",
+            "img_b": "Spot_Diff/00874_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00874_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00874_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00874_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00874_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 11",
+            "B: 13",
+            "C: 12",
+            "D: 16"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 67,
+        "data": {
+            "img_a": "Spot_Diff/00868_13/img_a.jpg",
+            "img_b": "Spot_Diff/00868_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00868_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00868_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00868_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00868_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 10",
+            "C: 18",
+            "D: 13"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 88,
+        "data": {
+            "img_a": "Spot_Diff/00820_15/img_a.jpg",
+            "img_b": "Spot_Diff/00820_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00820_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00820_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00820_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00820_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 12",
+            "B: 10",
+            "C: 11",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 5,
+        "data": {
+            "img_a": "Spot_Diff/00800_15/img_a.jpg",
+            "img_b": "Spot_Diff/00800_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00800_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00800_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00800_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00800_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 17",
+            "C: 11",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 36,
+        "data": {
+            "img_a": "Spot_Diff/00815_16/img_a.jpg",
+            "img_b": "Spot_Diff/00815_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00815_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00815_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00815_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00815_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 19",
+            "B: 16",
+            "C: 14",
+            "D: 20"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 65,
+        "data": {
+            "img_a": "Spot_Diff/00831_15/img_a.jpg",
+            "img_b": "Spot_Diff/00831_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00831_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00831_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00831_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00831_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 12",
+            "C: 19",
+            "D: 17"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 8,
+        "data": {
+            "img_a": "Spot_Diff/00821_16/img_a.jpg",
+            "img_b": "Spot_Diff/00821_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00821_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00821_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00821_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00821_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 11",
+            "B: 18",
+            "C: 16",
+            "D: 20"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 37,
+        "data": {
+            "img_a": "Spot_Diff/00804_15/img_a.jpg",
+            "img_b": "Spot_Diff/00804_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00804_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00804_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00804_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00804_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 17",
+            "B: 20",
+            "C: 15",
+            "D: 14"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 92,
+        "data": {
+            "img_a": "Spot_Diff/00838_15/img_a.jpg",
+            "img_b": "Spot_Diff/00838_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00838_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00838_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00838_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00838_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 17",
+            "B: 15",
+            "C: 18",
+            "D: 12"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 86,
+        "data": {
+            "img_a": "Spot_Diff/00781_16/img_a.jpg",
+            "img_b": "Spot_Diff/00781_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00781_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00781_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00781_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00781_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 19",
+            "B: 16",
+            "C: 13",
+            "D: 18"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 61,
+        "data": {
+            "img_a": "Spot_Diff/00822_15/img_a.jpg",
+            "img_b": "Spot_Diff/00822_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00822_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00822_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00822_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00822_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 10",
+            "B: 12",
+            "C: 14",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 54,
+        "data": {
+            "img_a": "Spot_Diff/00823_14/img_a.jpg",
+            "img_b": "Spot_Diff/00823_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00823_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00823_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00823_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00823_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 17",
+            "B: 14",
+            "C: 15",
+            "D: 18"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 22,
+        "data": {
+            "img_a": "Spot_Diff/00846_14/img_a.jpg",
+            "img_b": "Spot_Diff/00846_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00846_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00846_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00846_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00846_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 11",
+            "C: 16",
+            "D: 14"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 97,
+        "data": {
+            "img_a": "Spot_Diff/00784_15/img_a.jpg",
+            "img_b": "Spot_Diff/00784_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00784_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00784_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00784_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00784_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 19",
+            "B: 12",
+            "C: 15",
+            "D: 16"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 24,
+        "data": {
+            "img_a": "Spot_Diff/00872_13/img_a.jpg",
+            "img_b": "Spot_Diff/00872_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00872_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00872_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00872_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00872_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 11",
+            "B: 10",
+            "C: 14",
+            "D: 13"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 11,
+        "data": {
+            "img_a": "Spot_Diff/00863_13/img_a.jpg",
+            "img_b": "Spot_Diff/00863_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00863_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00863_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00863_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00863_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 12",
+            "C: 10",
+            "D: 13"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 21,
+        "data": {
+            "img_a": "Spot_Diff/00787_15/img_a.jpg",
+            "img_b": "Spot_Diff/00787_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00787_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00787_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00787_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00787_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 14",
+            "C: 16",
+            "D: 12"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 55,
+        "data": {
+            "img_a": "Spot_Diff/00799_16/img_a.jpg",
+            "img_b": "Spot_Diff/00799_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00799_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00799_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00799_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00799_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 21",
+            "C: 15",
+            "D: 13"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 91,
+        "data": {
+            "img_a": "Spot_Diff/00810_15/img_a.jpg",
+            "img_b": "Spot_Diff/00810_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00810_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00810_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00810_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00810_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 14",
+            "C: 10",
+            "D: 18"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 69,
+        "data": {
+            "img_a": "Spot_Diff/00805_15/img_a.jpg",
+            "img_b": "Spot_Diff/00805_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00805_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00805_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00805_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00805_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 18",
+            "C: 14",
+            "D: 13"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 9,
+        "data": {
+            "img_a": "Spot_Diff/00782_15/img_a.jpg",
+            "img_b": "Spot_Diff/00782_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00782_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00782_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00782_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00782_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 12",
+            "B: 17",
+            "C: 15",
+            "D: 20"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 76,
+        "data": {
+            "img_a": "Spot_Diff/00778_15/img_a.jpg",
+            "img_b": "Spot_Diff/00778_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00778_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00778_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00778_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00778_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 17",
+            "B: 16",
+            "C: 19",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 71,
+        "data": {
+            "img_a": "Spot_Diff/00839_14/img_a.jpg",
+            "img_b": "Spot_Diff/00839_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00839_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00839_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00839_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00839_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 9",
+            "B: 19",
+            "C: 11",
+            "D: 14"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 85,
+        "data": {
+            "img_a": "Spot_Diff/00865_13/img_a.jpg",
+            "img_b": "Spot_Diff/00865_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00865_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00865_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00865_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00865_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 9",
+            "C: 13",
+            "D: 12"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 68,
+        "data": {
+            "img_a": "Spot_Diff/00771_15/img_a.jpg",
+            "img_b": "Spot_Diff/00771_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00771_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00771_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00771_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00771_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 17",
+            "B: 11",
+            "C: 18",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 96,
+        "data": {
+            "img_a": "Spot_Diff/00793_15/img_a.jpg",
+            "img_b": "Spot_Diff/00793_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00793_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00793_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00793_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00793_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 20",
+            "B: 17",
+            "C: 15",
+            "D: 11"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 29,
+        "data": {
+            "img_a": "Spot_Diff/00817_15/img_a.jpg",
+            "img_b": "Spot_Diff/00817_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00817_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00817_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00817_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00817_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 15",
+            "C: 11",
+            "D: 20"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 104,
+        "data": {
+            "img_a": "Spot_Diff/00832_14/img_a.jpg",
+            "img_b": "Spot_Diff/00832_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00832_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00832_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00832_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00832_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 12",
+            "B: 10",
+            "C: 14",
+            "D: 11"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 82,
+        "data": {
+            "img_a": "Spot_Diff/00855_14/img_a.jpg",
+            "img_b": "Spot_Diff/00855_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00855_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00855_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00855_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00855_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 18",
+            "C: 15",
+            "D: 19"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 17,
+        "data": {
+            "img_a": "Spot_Diff/00829_15/img_a.jpg",
+            "img_b": "Spot_Diff/00829_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00829_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00829_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00829_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00829_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 14",
+            "C: 19",
+            "D: 13"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 94,
+        "data": {
+            "img_a": "Spot_Diff/00835_14/img_a.jpg",
+            "img_b": "Spot_Diff/00835_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00835_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00835_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00835_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00835_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 11",
+            "B: 14",
+            "C: 18",
+            "D: 16"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 95,
+        "data": {
+            "img_a": "Spot_Diff/00867_13/img_a.jpg",
+            "img_b": "Spot_Diff/00867_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00867_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00867_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00867_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00867_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 13",
+            "B: 11",
+            "C: 15",
+            "D: 17"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 89,
+        "data": {
+            "img_a": "Spot_Diff/00776_15/img_a.jpg",
+            "img_b": "Spot_Diff/00776_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00776_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00776_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00776_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00776_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 13",
+            "C: 19",
+            "D: 10"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 45,
+        "data": {
+            "img_a": "Spot_Diff/00847_15/img_a.jpg",
+            "img_b": "Spot_Diff/00847_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00847_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00847_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00847_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00847_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 10",
+            "B: 13",
+            "C: 15",
+            "D: 19"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 70,
+        "data": {
+            "img_a": "Spot_Diff/00788_15/img_a.jpg",
+            "img_b": "Spot_Diff/00788_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00788_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00788_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00788_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00788_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 11",
+            "B: 15",
+            "C: 17",
+            "D: 12"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 102,
+        "data": {
+            "img_a": "Spot_Diff/00824_16/img_a.jpg",
+            "img_b": "Spot_Diff/00824_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00824_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00824_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00824_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00824_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 12",
+            "B: 13",
+            "C: 11",
+            "D: 16"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 87,
+        "data": {
+            "img_a": "Spot_Diff/00856_16/img_a.jpg",
+            "img_b": "Spot_Diff/00856_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00856_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00856_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00856_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00856_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 11",
+            "C: 16",
+            "D: 14"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 64,
+        "data": {
+            "img_a": "Spot_Diff/00811_15/img_a.jpg",
+            "img_b": "Spot_Diff/00811_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00811_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00811_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00811_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00811_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 15",
+            "C: 11",
+            "D: 20"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 35,
+        "data": {
+            "img_a": "Spot_Diff/00848_14/img_a.jpg",
+            "img_b": "Spot_Diff/00848_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00848_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00848_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00848_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00848_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 9",
+            "B: 17",
+            "C: 15",
+            "D: 14"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 3,
+        "data": {
+            "img_a": "Spot_Diff/00785_15/img_a.jpg",
+            "img_b": "Spot_Diff/00785_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00785_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00785_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00785_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00785_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 17",
+            "C: 16",
+            "D: 13"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 20,
+        "data": {
+            "img_a": "Spot_Diff/00774_16/img_a.jpg",
+            "img_b": "Spot_Diff/00774_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00774_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00774_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00774_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00774_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 21",
+            "B: 20",
+            "C: 16",
+            "D: 13"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 52,
+        "data": {
+            "img_a": "Spot_Diff/00808_16/img_a.jpg",
+            "img_b": "Spot_Diff/00808_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00808_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00808_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00808_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00808_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 14",
+            "C: 17",
+            "D: 21"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 99,
+        "data": {
+            "img_a": "Spot_Diff/00783_15/img_a.jpg",
+            "img_b": "Spot_Diff/00783_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00783_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00783_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00783_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00783_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 12",
+            "B: 17",
+            "C: 10",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 6,
+        "data": {
+            "img_a": "Spot_Diff/00806_15/img_a.jpg",
+            "img_b": "Spot_Diff/00806_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00806_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00806_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00806_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00806_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 11",
+            "C: 20",
+            "D: 12"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 60,
+        "data": {
+            "img_a": "Spot_Diff/00866_14/img_a.jpg",
+            "img_b": "Spot_Diff/00866_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00866_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00866_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00866_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00866_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 12",
+            "C: 19",
+            "D: 14"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 44,
+        "data": {
+            "img_a": "Spot_Diff/00870_13/img_a.jpg",
+            "img_b": "Spot_Diff/00870_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00870_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00870_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00870_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00870_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 18",
+            "C: 14",
+            "D: 13"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 1,
+        "data": {
+            "img_a": "Spot_Diff/00840_15/img_a.jpg",
+            "img_b": "Spot_Diff/00840_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00840_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00840_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00840_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00840_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 10",
+            "B: 13",
+            "C: 16",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 10,
+        "data": {
+            "img_a": "Spot_Diff/00798_16/img_a.jpg",
+            "img_b": "Spot_Diff/00798_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00798_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00798_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00798_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00798_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 20",
+            "C: 12",
+            "D: 15"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 93,
+        "data": {
+            "img_a": "Spot_Diff/00819_16/img_a.jpg",
+            "img_b": "Spot_Diff/00819_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00819_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00819_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00819_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00819_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 13",
+            "C: 20",
+            "D: 18"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 14,
+        "data": {
+            "img_a": "Spot_Diff/00779_15/img_a.jpg",
+            "img_b": "Spot_Diff/00779_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00779_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00779_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00779_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00779_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 10",
+            "B: 15",
+            "C: 12",
+            "D: 17"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 81,
+        "data": {
+            "img_a": "Spot_Diff/00844_13/img_a.jpg",
+            "img_b": "Spot_Diff/00844_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00844_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00844_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00844_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00844_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 18",
+            "B: 13",
+            "C: 12",
+            "D: 9"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 30,
+        "data": {
+            "img_a": "Spot_Diff/00792_16/img_a.jpg",
+            "img_b": "Spot_Diff/00792_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00792_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00792_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00792_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00792_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 13",
+            "B: 20",
+            "C: 21",
+            "D: 16"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 62,
+        "data": {
+            "img_a": "Spot_Diff/00854_14/img_a.jpg",
+            "img_b": "Spot_Diff/00854_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00854_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00854_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00854_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00854_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 18",
+            "C: 9",
+            "D: 13"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 56,
+        "data": {
+            "img_a": "Spot_Diff/00809_16/img_a.jpg",
+            "img_b": "Spot_Diff/00809_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00809_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00809_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00809_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00809_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 20",
+            "C: 14",
+            "D: 13"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 19,
+        "data": {
+            "img_a": "Spot_Diff/00837_15/img_a.jpg",
+            "img_b": "Spot_Diff/00837_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00837_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00837_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00837_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00837_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 15",
+            "C: 13",
+            "D: 18"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 42,
+        "data": {
+            "img_a": "Spot_Diff/00789_16/img_a.jpg",
+            "img_b": "Spot_Diff/00789_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00789_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00789_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00789_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00789_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 20",
+            "B: 21",
+            "C: 16",
+            "D: 17"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 31,
+        "data": {
+            "img_a": "Spot_Diff/00873_13/img_a.jpg",
+            "img_b": "Spot_Diff/00873_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00873_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00873_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00873_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00873_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 11",
+            "C: 13",
+            "D: 8"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 27,
+        "data": {
+            "img_a": "Spot_Diff/00833_15/img_a.jpg",
+            "img_b": "Spot_Diff/00833_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00833_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00833_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00833_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00833_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 11",
+            "B: 20",
+            "C: 15",
+            "D: 12"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 40,
+        "data": {
+            "img_a": "Spot_Diff/00841_14/img_a.jpg",
+            "img_b": "Spot_Diff/00841_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00841_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00841_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00841_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00841_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 12",
+            "B: 14",
+            "C: 13",
+            "D: 10"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 47,
+        "data": {
+            "img_a": "Spot_Diff/00796_15/img_a.jpg",
+            "img_b": "Spot_Diff/00796_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00796_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00796_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00796_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00796_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 19",
+            "B: 15",
+            "C: 20",
+            "D: 16"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 38,
+        "data": {
+            "img_a": "Spot_Diff/00813_15/img_a.jpg",
+            "img_b": "Spot_Diff/00813_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00813_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00813_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00813_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00813_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 13",
+            "B: 18",
+            "C: 15",
+            "D: 19"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 103,
+        "data": {
+            "img_a": "Spot_Diff/00827_15/img_a.jpg",
+            "img_b": "Spot_Diff/00827_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00827_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00827_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00827_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00827_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 12",
+            "B: 13",
+            "C: 11",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 78,
+        "data": {
+            "img_a": "Spot_Diff/00830_15/img_a.jpg",
+            "img_b": "Spot_Diff/00830_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00830_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00830_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00830_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00830_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 18",
+            "B: 19",
+            "C: 16",
+            "D: 15"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 49,
+        "data": {
+            "img_a": "Spot_Diff/00853_14/img_a.jpg",
+            "img_b": "Spot_Diff/00853_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00853_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00853_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00853_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00853_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 15",
+            "B: 11",
+            "C: 16",
+            "D: 14"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 90,
+        "data": {
+            "img_a": "Spot_Diff/00797_15/img_a.jpg",
+            "img_b": "Spot_Diff/00797_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00797_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00797_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00797_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00797_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 17",
+            "B: 12",
+            "C: 15",
+            "D: 13"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 43,
+        "data": {
+            "img_a": "Spot_Diff/00869_13/img_a.jpg",
+            "img_b": "Spot_Diff/00869_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00869_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00869_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00869_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00869_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 17",
+            "B: 11",
+            "C: 12",
+            "D: 13"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 50,
+        "data": {
+            "img_a": "Spot_Diff/00842_14/img_a.jpg",
+            "img_b": "Spot_Diff/00842_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00842_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00842_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00842_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00842_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 12",
+            "C: 13",
+            "D: 10"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 53,
+        "data": {
+            "img_a": "Spot_Diff/00777_15/img_a.jpg",
+            "img_b": "Spot_Diff/00777_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00777_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00777_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00777_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00777_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 10",
+            "C: 15",
+            "D: 17"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 73,
+        "data": {
+            "img_a": "Spot_Diff/00812_15/img_a.jpg",
+            "img_b": "Spot_Diff/00812_15/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00812_15/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00812_15/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00812_15/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00812_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 20",
+            "B: 11",
+            "C: 15",
+            "D: 17"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 80,
+        "data": {
+            "img_a": "Spot_Diff/00828_14/img_a.jpg",
+            "img_b": "Spot_Diff/00828_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00828_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00828_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00828_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00828_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 13",
+            "B: 11",
+            "C: 16",
+            "D: 14"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 26,
+        "data": {
+            "img_a": "Spot_Diff/00814_16/img_a.jpg",
+            "img_b": "Spot_Diff/00814_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00814_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00814_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00814_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00814_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 21",
+            "C: 12",
+            "D: 16"
+        ],
+        "answer": "D"
+    },
+    {
+        "id": 33,
+        "data": {
+            "img_a": "Spot_Diff/00803_16/img_a.jpg",
+            "img_b": "Spot_Diff/00803_16/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00803_16/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00803_16/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00803_16/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00803_16/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 16",
+            "B: 18",
+            "C: 21",
+            "D: 15"
+        ],
+        "answer": "A"
+    },
+    {
+        "id": 18,
+        "data": {
+            "img_a": "Spot_Diff/00850_14/img_a.jpg",
+            "img_b": "Spot_Diff/00850_14/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00850_14/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00850_14/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00850_14/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00850_14/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 10",
+            "B: 14",
+            "C: 11",
+            "D: 12"
+        ],
+        "answer": "B"
+    },
+    {
+        "id": 51,
+        "data": {
+            "img_a": "Spot_Diff/00860_13/img_a.jpg",
+            "img_b": "Spot_Diff/00860_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00860_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00860_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00860_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00860_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 14",
+            "B: 18",
+            "C: 13",
+            "D: 8"
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 12,
+        "data": {
+            "img_a": "Spot_Diff/00864_13/img_a.jpg",
+            "img_b": "Spot_Diff/00864_13/img_b.jpg",
+            "img_diff_a": "Spot_Diff/00864_13/img_diff_a.jpg",
+            "img_diff_a_negative1": "Spot_Diff/00864_13/img_diff_a_negative1.jpg",
+            "img_diff_a_negative2": "Spot_Diff/00864_13/img_diff_a_negative2.jpg",
+            "img_diff_a_negative3": "Spot_Diff/00864_13/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+            "A: 13",
+            "B: 12",
+            "C: 10",
+            "D: 11"
+        ],
+        "answer": "A"
+    }
+]

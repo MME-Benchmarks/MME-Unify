@@ -1,0 +1,1921 @@
+[
+    {
+        "question": "The national flag of the country where Yellowstone National Park is located.",
+        "choice": [
+            "A: British Flag",
+            "B: American Flag",
+            "C: Canadian Flag",
+            "D: Mexican Flag"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/American_Flag.jpg",
+            "fake_image1": "Common_Sense_Questions/American_Flag_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/American_Flag_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/American_Flag_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 22
+    },
+    {
+        "question": "A famous wrought-iron lattice tower located in the heart of Paris, France.",
+        "choice": [
+            "A: Statue of Liberty",
+            "B: Big Ben",
+            "C: Eiffel Tower",
+            "D: Leaning Tower of Pisa"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Eiffel Tower.jpg",
+            "fake_image1": "Common_Sense_Questions/Eiffel Tower_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Eiffel Tower_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Eiffel Tower_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 45
+    },
+    {
+        "question": "An ancient series of fortifications spanning across northern China.",
+        "choice": [
+            "A: Great Wall of China",
+            "B: Berlin Wall",
+            "C: Hadrian's Wall",
+            "D: Wall of Jericho"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Great Wall of China.jpg",
+            "fake_image1": "Common_Sense_Questions/Great Wall of China_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Great Wall of China_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Great Wall of China_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 28
+    },
+    {
+        "question": "Ancient monumental tombs located in Egypt near the city of Cairo.",
+        "choice": [
+            "A: Colosseum",
+            "B: Stonehenge",
+            "C: Machu Picchu",
+            "D: Pyramids of Giza"
+        ],
+        "answer": "D",
+        "data": {
+            "image": "Common_Sense_Questions/Pyramids of Giza.jpg",
+            "fake_image1": "Common_Sense_Questions/Pyramids of Giza_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Pyramids of Giza_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Pyramids of Giza_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 5
+    },
+    {
+        "question": "A colossal neoclassical sculpture on Liberty Island symbolizing freedom in New York Harbor.",
+        "choice": [
+            "A: Christ the Redeemer",
+            "B: Statue of Liberty",
+            "C: Mount Rushmore",
+            "D: The Thinker"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Statue of Liberty.jpg",
+            "fake_image1": "Common_Sense_Questions/Statue of Liberty_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Statue of Liberty_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Statue of Liberty_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 55
+    },
+    {
+        "question": "The highest mountain above sea level in the world, located in the Himalayas.",
+        "choice": [
+            "A: Mount Everest",
+            "B: K2",
+            "C: Kangchenjunga",
+            "D: Lhotse"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Mount Everest.jpg",
+            "fake_image1": "Common_Sense_Questions/Mount Everest_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Mount Everest_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Mount Everest_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 22
+    },
+    {
+        "question": "The nickname for the Great Bell at the north end of the Palace of Westminster in London.",
+        "choice": [
+            "A: Tower Bridge",
+            "B: Buckingham Palace",
+            "C: Big Ben",
+            "D: The Shard"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Big Ben.jpg",
+            "fake_image1": "Common_Sense_Questions/Big Ben_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Big Ben_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Big Ben_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 20
+    },
+    {
+        "question": "A freestanding bell tower in Italy famous for its unintended tilt.",
+        "choice": [
+            "A: Colosseum",
+            "B: Leaning Tower of Pisa",
+            "C: Pantheon",
+            "D: Florence Cathedral"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Leaning Tower of Pisa.jpg",
+            "fake_image1": "Common_Sense_Questions/Leaning Tower of Pisa_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Leaning Tower of Pisa_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Leaning Tower of Pisa_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 100
+    },
+    {
+        "question": "An ancient amphitheater located in the heart of Rome, Italy.",
+        "choice": [
+            "A: Roman Forum",
+            "B: Pantheon",
+            "C: Trevi Fountain",
+            "D: Colosseum"
+        ],
+        "answer": "D",
+        "data": {
+            "image": "Common_Sense_Questions/Colosseum.jpg",
+            "fake_image1": "Common_Sense_Questions/Colosseum_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Colosseum_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Colosseum_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 48
+    },
+    {
+        "question": "A white marble mausoleum in Agra, India, built by Emperor Shah Jahan in memory of his wife.",
+        "choice": [
+            "A: Taj Mahal",
+            "B: Red Fort",
+            "C: Qutub Minar",
+            "D: Hawa Mahal"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Taj Mahal.jpg",
+            "fake_image1": "Common_Sense_Questions/Taj Mahal_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Taj Mahal_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Taj Mahal_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 70
+    },
+    {
+        "question": "A large land animal with a long trunk and tusks, native to Africa.",
+        "choice": [
+            "A: African Elephant",
+            "B: Asian Elephant",
+            "C: White Rhinoceros",
+            "D: Hippopotamus"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/African Elephant.jpg",
+            "fake_image1": "Common_Sense_Questions/African Elephant_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/African Elephant_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/African Elephant_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 95
+    },
+    {
+        "question": "A bear native to China known for its distinctive black and white fur and bamboo diet.",
+        "choice": [
+            "A: Polar Bear",
+            "B: Black Bear",
+            "C: Giant Panda",
+            "D: Sun Bear"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Giant Panda.jpg",
+            "fake_image1": "Common_Sense_Questions/Giant Panda_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Giant Panda_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Giant Panda_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 36
+    },
+    {
+        "question": "A large feline with an orange coat and distinctive black stripes, found in Asia.",
+        "choice": [
+            "A: Lion",
+            "B: Bengal Tiger",
+            "C: Leopard",
+            "D: Cheetah"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Bengal Tiger.jpg",
+            "fake_image1": "Common_Sense_Questions/Bengal Tiger_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Bengal Tiger_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Bengal Tiger_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 26
+    },
+    {
+        "question": "The largest animal on Earth, inhabiting the world's oceans.",
+        "choice": [
+            "A: Great White Shark",
+            "B: Blue Whale",
+            "C: Giant Squid",
+            "D: Orca"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Blue Whale.jpg",
+            "fake_image1": "Common_Sense_Questions/Blue Whale_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Blue Whale_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Blue Whale_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 7
+    },
+    {
+        "question": "A flightless bird native to Antarctica, known for its formal black and white 'tuxedo' appearance.",
+        "choice": [
+            "A: Emperor Penguin",
+            "B: King Penguin",
+            "C: Adélie Penguin",
+            "D: Gentoo Penguin"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Emperor Penguin.jpg",
+            "fake_image1": "Common_Sense_Questions/Emperor Penguin_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Emperor Penguin_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Emperor Penguin_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 62
+    },
+    {
+        "question": "A bird of prey with a white head, recognized as a symbol of the United States.",
+        "choice": [
+            "A: Golden Eagle",
+            "B: Bald Eagle",
+            "C: Peregrine Falcon",
+            "D: Red-tailed Hawk"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Bald Eagle.jpg",
+            "fake_image1": "Common_Sense_Questions/Bald Eagle_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Bald Eagle_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Bald Eagle_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 74
+    },
+    {
+        "question": "A highly venomous snake known for its hood, native to parts of Asia.",
+        "choice": [
+            "A: King Cobra",
+            "B: Rattlesnake",
+            "C: Python",
+            "D: Boa Constrictor"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/King Cobra.jpg",
+            "fake_image1": "Common_Sense_Questions/King Cobra_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/King Cobra_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/King Cobra_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 95
+    },
+    {
+        "question": "Often called the 'king of the jungle', this large feline is native to Africa.",
+        "choice": [
+            "A: Tiger",
+            "B: Cheetah",
+            "C: Leopard",
+            "D: African Lion"
+        ],
+        "answer": "D",
+        "data": {
+            "image": "Common_Sense_Questions/African Lion.jpg",
+            "fake_image1": "Common_Sense_Questions/African Lion_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/African Lion_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/African Lion_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 22
+    },
+    {
+        "question": "A marsupial known for its powerful hind legs and ability to hop, native to Australia.",
+        "choice": [
+            "A: Koala",
+            "B: Red Kangaroo",
+            "C: Wallaby",
+            "D: Wombat"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Red Kangaroo.jpg",
+            "fake_image1": "Common_Sense_Questions/Red Kangaroo_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Red Kangaroo_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Red Kangaroo_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 29
+    },
+    {
+        "question": "A giant tortoise species native to the Galápagos Islands, famous for its longevity.",
+        "choice": [
+            "A: Aldabra Giant Tortoise",
+            "B: Galápagos Giant Tortoise",
+            "C: Gopher Tortoise",
+            "D: Leopard Tortoise"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Galápagos Giant Tortoise.jpg",
+            "fake_image1": "Common_Sense_Questions/Galápagos Giant Tortoise_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Galápagos Giant Tortoise_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Galápagos Giant Tortoise_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 37
+    },
+    {
+        "question": "A large deciduous tree known for its strong wood and production of acorns.",
+        "choice": [
+            "A: Pine",
+            "B: Birch",
+            "C: Oak Tree",
+            "D: Maple"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Oak Tree.jpg",
+            "fake_image1": "Common_Sense_Questions/Oak Tree_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Oak Tree_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Oak Tree_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 53
+    },
+    {
+        "question": "A popular fragrant flower often given as a gift, symbolizing love and beauty.",
+        "choice": [
+            "A: Rose",
+            "B: Tulip",
+            "C: Orchid",
+            "D: Daisy"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Rose.jpg",
+            "fake_image1": "Common_Sense_Questions/Rose_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Rose_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Rose_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 72
+    },
+    {
+        "question": "A tall, fast-growing grass used in construction and as a renewable resource in Asia.",
+        "choice": [
+            "A: Bamboo",
+            "B: Wheat",
+            "C: Sugarcane",
+            "D: Corn"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Bamboo.jpg",
+            "fake_image1": "Common_Sense_Questions/Bamboo_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Bamboo_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Bamboo_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 32
+    },
+    {
+        "question": "A bright yellow flower that famously turns to follow the sun.",
+        "choice": [
+            "A: Sunflower",
+            "B: Daffodil",
+            "C: Marigold",
+            "D: Chrysanthemum"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Sunflower.jpg",
+            "fake_image1": "Common_Sense_Questions/Sunflower_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Sunflower_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Sunflower_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 26
+    },
+    {
+        "question": "A carnivorous plant known for its rapid closing leaves that trap unsuspecting insects.",
+        "choice": [
+            "A: Venus Flytrap",
+            "B: Pitcher Plant",
+            "C: Sundew",
+            "D: Cobra Lily"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Venus Flytrap.jpg",
+            "fake_image1": "Common_Sense_Questions/Venus Flytrap_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Venus Flytrap_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Venus Flytrap_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 68
+    },
+    {
+        "question": "A large, spiky cactus native to North American deserts, often called the 'king of cacti'.",
+        "choice": [
+            "A: Saguaro Cactus",
+            "B: Prickly Pear",
+            "C: Barrel Cactus",
+            "D: Cholla"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Saguaro Cactus.jpg",
+            "fake_image1": "Common_Sense_Questions/Saguaro Cactus_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Saguaro Cactus_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Saguaro Cactus_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 15
+    },
+    {
+        "question": "A bulbous plant famous for its vibrant, cup-shaped blooms in spring.",
+        "choice": [
+            "A: Tulip",
+            "B: Daffodil",
+            "C: Crocus",
+            "D: Hyacinth"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Tulip.jpg",
+            "fake_image1": "Common_Sense_Questions/Tulip_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Tulip_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Tulip_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 92
+    },
+    {
+        "question": "A tree celebrated in Japan for its fleeting, delicate pink blossoms each spring.",
+        "choice": [
+            "A: Cherry Blossom",
+            "B: Magnolia",
+            "C: Dogwood",
+            "D: Wisteria"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Cherry Blossom.jpg",
+            "fake_image1": "Common_Sense_Questions/Cherry Blossom_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Cherry Blossom_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Cherry Blossom_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 75
+    },
+    {
+        "question": "A massive, long-lived tree native to Africa, often called the 'tree of life'.",
+        "choice": [
+            "A: Sequoia",
+            "B: Baobab Tree",
+            "C: Redwood",
+            "D: Banyan"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Baobab Tree.jpg",
+            "fake_image1": "Common_Sense_Questions/Baobab Tree_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Baobab Tree_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Baobab Tree_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 61
+    },
+    {
+        "question": "An aquatic plant with large, round leaves often seen floating in ponds.",
+        "choice": [
+            "A: Lotus",
+            "B: Water Lily",
+            "C: Duckweed",
+            "D: Papyrus"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Water Lily.jpg",
+            "fake_image1": "Common_Sense_Questions/Water Lily_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Water Lily_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Water Lily_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 54
+    },
+    {
+        "question": "A handheld device that has become a symbol of modern communication and computing.",
+        "choice": [
+            "A: Smartphone",
+            "B: Tablet",
+            "C: Laptop",
+            "D: Desktop Computer"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Smartphone.jpg",
+            "fake_image1": "Common_Sense_Questions/Smartphone_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Smartphone_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Smartphone_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 4
+    },
+    {
+        "question": "A portable computer that opens like a book and is widely used for work and entertainment.",
+        "choice": [
+            "A: Smartphone",
+            "B: Tablet",
+            "C: Laptop",
+            "D: Desktop Computer"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Laptop.jpg",
+            "fake_image1": "Common_Sense_Questions/Laptop_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Laptop_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Laptop_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 72
+    },
+    {
+        "question": "A four-wheeled vehicle that has become essential for modern transportation.",
+        "choice": [
+            "A: Bicycle",
+            "B: Car",
+            "C: Motorcycle",
+            "D: Bus"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Car.jpg",
+            "fake_image1": "Common_Sense_Questions/Car_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Car_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Car_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 27
+    },
+    {
+        "question": "An instrument that measures time and is often found on walls or worn on wrists.",
+        "choice": [
+            "A: Clock",
+            "B: Calendar",
+            "C: Stopwatch",
+            "D: Hourglass"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Clock.jpg",
+            "fake_image1": "Common_Sense_Questions/Clock_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Clock_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Clock_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 54
+    },
+    {
+        "question": "A powered flying vehicle that revolutionized travel in the 20th century.",
+        "choice": [
+            "A: Helicopter",
+            "B: Airplane",
+            "C: Glider",
+            "D: Hot Air Balloon"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Airplane.jpg",
+            "fake_image1": "Common_Sense_Questions/Airplane_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Airplane_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Airplane_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 27
+    },
+    {
+        "question": "A two-wheeled vehicle powered by pedaling, popular for exercise and commuting.",
+        "choice": [
+            "A: Car",
+            "B: Motorcycle",
+            "C: Bicycle",
+            "D: Scooter"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Bicycle.jpg",
+            "fake_image1": "Common_Sense_Questions/Bicycle_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Bicycle_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Bicycle_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 30
+    },
+    {
+        "question": "A device used to capture photographs, essential in both art and journalism.",
+        "choice": [
+            "A: Smartphone",
+            "B: Camera",
+            "C: Telescope",
+            "D: Microphone"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Camera.jpg",
+            "fake_image1": "Common_Sense_Questions/Camera_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Camera_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Camera_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 56
+    },
+    {
+        "question": "A device that produces light through an incandescent filament, a major invention of the 19th century.",
+        "choice": [
+            "A: Light Bulb",
+            "B: Candle",
+            "C: Torch",
+            "D: Lantern"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Light Bulb.jpg",
+            "fake_image1": "Common_Sense_Questions/Light Bulb_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Light Bulb_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Light Bulb_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 96
+    },
+    {
+        "question": "A kitchen appliance that uses microwave radiation to quickly heat and cook food.",
+        "choice": [
+            "A: Oven",
+            "B: Refrigerator",
+            "C: Microwave",
+            "D: Toaster"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Microwave.jpg",
+            "fake_image1": "Common_Sense_Questions/Microwave_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Microwave_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Microwave_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 93
+    },
+    {
+        "question": "A stringed musical instrument commonly used in rock and pop music, played by strumming.",
+        "choice": [
+            "A: Piano",
+            "B: Violin",
+            "C: Drum",
+            "D: Guitar"
+        ],
+        "answer": "D",
+        "data": {
+            "image": "Common_Sense_Questions/Guitar.jpg",
+            "fake_image1": "Common_Sense_Questions/Guitar_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Guitar_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Guitar_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 62
+    },
+    {
+        "question": "An electronic device used to display video content and broadcast programs.",
+        "choice": [
+            "A: Television",
+            "B: Radio",
+            "C: Computer",
+            "D: Smartphone"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Television.jpg",
+            "fake_image1": "Common_Sense_Questions/Television_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Television_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Television_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 64
+    },
+    {
+        "question": "An appliance used to keep food and beverages cold.",
+        "choice": [
+            "A: Refrigerator",
+            "B: Oven",
+            "C: Microwave",
+            "D: Toaster"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Refrigerator.jpg",
+            "fake_image1": "Common_Sense_Questions/Refrigerator_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Refrigerator_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Refrigerator_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 14
+    },
+    {
+        "question": "An appliance used for cleaning clothes by agitation and water.",
+        "choice": [
+            "A: Washing Machine",
+            "B: Dryer",
+            "C: Dishwasher",
+            "D: Oven"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Washing Machine.jpg",
+            "fake_image1": "Common_Sense_Questions/Washing Machine_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Washing Machine_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Washing Machine_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 43
+    },
+    {
+        "question": "An electric device that uses suction to remove debris from floors.",
+        "choice": [
+            "A: Vacuum Cleaner",
+            "B: Broom",
+            "C: Mop",
+            "D: Duster"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Vacuum Cleaner.jpg",
+            "fake_image1": "Common_Sense_Questions/Vacuum Cleaner_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Vacuum Cleaner_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Vacuum Cleaner_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 73
+    },
+    {
+        "question": "An electronic device that produces physical copies of documents and images.",
+        "choice": [
+            "A: Printer",
+            "B: Scanner",
+            "C: Copier",
+            "D: Fax Machine"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Printer.jpg",
+            "fake_image1": "Common_Sense_Questions/Printer_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Printer_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Printer_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 12
+    },
+    {
+        "question": "A pair of small speakers worn on the head for listening to audio.",
+        "choice": [
+            "A: Headphones",
+            "B: Earbuds",
+            "C: Speakers",
+            "D: Microphone"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Headphones.jpg",
+            "fake_image1": "Common_Sense_Questions/Headphones_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Headphones_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Headphones_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 23
+    },
+    {
+        "question": "An input device used to type text into a computer.",
+        "choice": [
+            "A: Keyboard",
+            "B: Mouse",
+            "C: Trackpad",
+            "D: Joystick"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Keyboard.jpg",
+            "fake_image1": "Common_Sense_Questions/Keyboard_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Keyboard_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Keyboard_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 20
+    },
+    {
+        "question": "A handheld input device used to control a cursor on a computer screen.",
+        "choice": [
+            "A: Mouse",
+            "B: Keyboard",
+            "C: Touchpad",
+            "D: Stylus"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Mouse.jpg",
+            "fake_image1": "Common_Sense_Questions/Mouse_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Mouse_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Mouse_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 33
+    },
+    {
+        "question": "A set of written, printed, or blank pages fastened together, usually bound in a cover.",
+        "choice": [
+            "A: Book",
+            "B: Magazine",
+            "C: Newspaper",
+            "D: Journal"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Book.jpg",
+            "fake_image1": "Common_Sense_Questions/Book_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Book_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Book_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 96
+    },
+    {
+        "question": "A common writing instrument used to apply ink to paper.",
+        "choice": [
+            "A: Pen",
+            "B: Pencil",
+            "C: Marker",
+            "D: Crayon"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Pen.jpg",
+            "fake_image1": "Common_Sense_Questions/Pen_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Pen_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Pen_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 79
+    },
+    {
+        "question": "This large feline is known for its distinctive black spots on golden-yellow fur and is found in Africa and Asia.",
+        "choice": [
+            "A: Lion",
+            "B: Cat",
+            "C: Tiger",
+            "D: Leopard"
+        ],
+        "answer": "D",
+        "data": {
+            "image": "Common_Sense_Questions/Leopard.jpg",
+            "fake_image1": "Common_Sense_Questions/Leopard_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Leopard_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Leopard_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 35
+    },
+    {
+        "question": "This bird is the largest in the world but cannot fly.",
+        "choice": [
+            "A: Penguin",
+            "B: Ostrich",
+            "C: Pelican",
+            "D: Pigeon"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Ostrich.jpg",
+            "fake_image1": "Common_Sense_Questions/Ostrich_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Ostrich_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Ostrich_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 22
+    },
+    {
+        "question": "This marine animal is known for its ability to change color and camouflage itself.",
+        "choice": [
+            "A: Jellyfish",
+            "B: Octopus",
+            "C: Seahorse",
+            "D: Dolphin"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Octopus.jpg",
+            "fake_image1": "Common_Sense_Questions/Octopus_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Octopus_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Octopus_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 30
+    },
+    {
+        "question": "This type of tree produces acorns and is commonly found in forests.",
+        "choice": [
+            "A: Oak tree",
+            "B: Pine tree",
+            "C: Willow tree",
+            "D: Maple tree"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Oak_tree.jpg",
+            "fake_image1": "Common_Sense_Questions/Oak_tree_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Oak_tree_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Oak_tree_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 57
+    },
+    {
+        "question": "This insect is known for its ability to produce honey.",
+        "choice": [
+            "A: Butterfly",
+            "B: Ant",
+            "C: Honeybee",
+            "D: Beetle"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Honeybee.jpg",
+            "fake_image1": "Common_Sense_Questions/Honeybee_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Honeybee_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Honeybee_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 58
+    },
+    {
+        "question": "This reptile can change its skin color to blend into its surroundings.",
+        "choice": [
+            "A: Chameleon",
+            "B: Gecko",
+            "C: Iguana",
+            "D: Crocodile"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Chameleon.jpg",
+            "fake_image1": "Common_Sense_Questions/Chameleon_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Chameleon_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Chameleon_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 40
+    },
+    {
+        "question": "This large mammal has thick fur and hibernates during the winter.",
+        "choice": [
+            "A: Elephant",
+            "B: Polar bear",
+            "C: Brown bear",
+            "D: Kangaroo"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Brown_bear.jpg",
+            "fake_image1": "Common_Sense_Questions/Brown_bear_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Brown_bear_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Brown_bear_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 7
+    },
+    {
+        "question": "This animal is the only marsupial native to North America.",
+        "choice": [
+            "A: Kangaroo",
+            "B: Koala",
+            "C: Opossum",
+            "D: Wombat"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Opossum.jpg",
+            "fake_image1": "Common_Sense_Questions/Opossum_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Opossum_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Opossum_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 82
+    },
+    {
+        "question": "This plant is famous for its sharp spines and ability to store water in the desert.",
+        "choice": [
+            "A: Cactus",
+            "B: Bamboo",
+            "C: Sunflower",
+            "D: Fern"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Cactus.jpg",
+            "fake_image1": "Common_Sense_Questions/Cactus_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Cactus_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Cactus_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 55
+    },
+    {
+        "question": "This animal is the largest species of shark, known for its filter-feeding habits.",
+        "choice": [
+            "A: Great white shark",
+            "B: Tiger shark",
+            "C: Whale shark",
+            "D: Hammerhead shark"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Whale_shark.jpg",
+            "fake_image1": "Common_Sense_Questions/Whale_shark_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Whale_shark_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Whale_shark_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 24
+    },
+    {
+        "question": "Which animal is the fastest land mammal?",
+        "choice": [
+            "A: Lion",
+            "B: Greyhound",
+            "C: Cheetah",
+            "D: Horse"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Cheetah.jpg",
+            "fake_image1": "Common_Sense_Questions/Cheetah_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Cheetah_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Cheetah_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 60
+    },
+    {
+        "question": "Which bird is known for its ability to mimic human speech?",
+        "choice": [
+            "A: Eagle",
+            "B: Parrot",
+            "C: Crow",
+            "D: Owl"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Parrot.jpg",
+            "fake_image1": "Common_Sense_Questions/Parrot_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Parrot_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Parrot_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 3
+    },
+    {
+        "question": "This large mammal is known for its ivory tusks and trunk.",
+        "choice": [
+            "A: Rhino",
+            "B: Elephant",
+            "C: Hippo",
+            "D: Zebra"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Elephant.jpg",
+            "fake_image1": "Common_Sense_Questions/Elephant_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Elephant_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Elephant_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 7
+    },
+    {
+        "question": "Which plant is commonly used to produce chocolate?",
+        "choice": [
+            "A: Vanilla",
+            "B: Coffee",
+            "C: Cocoa",
+            "D: Mango"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Cocoa.jpg",
+            "fake_image1": "Common_Sense_Questions/Cocoa_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Cocoa_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Cocoa_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 61
+    },
+    {
+        "question": "What is the tallest tree species in the world?",
+        "choice": [
+            "A: Baobab",
+            "B: Redwood",
+            "C: Oak",
+            "D: Birch"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Redwood.jpg",
+            "fake_image1": "Common_Sense_Questions/Redwood_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Redwood_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Redwood_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 68
+    },
+    {
+        "question": "This famous scientist developed the theory of gravity after observing a falling apple.",
+        "choice": [
+            "A: Galileo Galilei",
+            "B: Albert Einstein",
+            "C: Isaac Newton",
+            "D: Charles Darwin"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Isaac_Newton.jpg",
+            "fake_image1": "Common_Sense_Questions/Isaac_Newton_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Isaac_Newton_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Isaac_Newton_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 3
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choice": [
+            "A: China",
+            "B: Japan",
+            "C: South Korea",
+            "D: Thailand"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Japan.jpg",
+            "fake_image1": "Common_Sense_Questions/Japan_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Japan_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Japan_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 35
+    },
+    {
+        "question": "What is the capital of France?",
+        "choice": [
+            "A: Rome",
+            "B: Madrid",
+            "C: Paris",
+            "D: Berlin"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Paris.jpg",
+            "fake_image1": "Common_Sense_Questions/Paris_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Paris_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Paris_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 75
+    },
+    {
+        "question": "Which element is represented by the chemical symbol 'O'?",
+        "choice": [
+            "A: Oxygen",
+            "B: Gold",
+            "C: Silver",
+            "D: Iron"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Oxygen.jpg",
+            "fake_image1": "Common_Sense_Questions/Oxygen_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Oxygen_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Oxygen_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 69
+    },
+    {
+        "question": "Which celestial body is known as the Red Planet?",
+        "choice": [
+            "A: Venus",
+            "B: Jupiter",
+            "C: Mars",
+            "D: Saturn"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Mars.jpg",
+            "fake_image1": "Common_Sense_Questions/Mars_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Mars_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Mars_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 66
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "choice": [
+            "A: Heart",
+            "B: Liver",
+            "C: Brain",
+            "D: Skin"
+        ],
+        "answer": "D",
+        "data": {
+            "image": "Common_Sense_Questions/Skin.jpg",
+            "fake_image1": "Common_Sense_Questions/Skin_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Skin_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Skin_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 51
+    },
+    {
+        "question": "Which musical instrument is known as the 'King of Instruments'?",
+        "choice": [
+            "A: Piano",
+            "B: Violin",
+            "C: Pipe Organ",
+            "D: Guitar"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Pipe_Organ.jpg",
+            "fake_image1": "Common_Sense_Questions/Pipe_Organ_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Pipe_Organ_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Pipe_Organ_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 82
+    },
+    {
+        "question": "Which ancient wonder of the world was located in Egypt?",
+        "choice": [
+            "A: Hanging Gardens",
+            "B: Great Pyramid of Giza",
+            "C: Colossus of Rhodes",
+            "D: Temple of Artemis"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Great_Pyramid.jpg",
+            "fake_image1": "Common_Sense_Questions/Great_Pyramid_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Great_Pyramid_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Great_Pyramid_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 86
+    },
+    {
+        "question": "What is the fastest bird in the world?",
+        "choice": [
+            "A: Eagle",
+            "B: Peregrine Falcon",
+            "C: Hummingbird",
+            "D: Ostrich"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Peregrine_Falcon.jpg",
+            "fake_image1": "Common_Sense_Questions/Peregrine_Falcon_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Peregrine_Falcon_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Peregrine_Falcon_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 56
+    },
+    {
+        "question": "Which invention by Johannes Gutenberg revolutionized the spread of information?",
+        "choice": [
+            "A: Telescope",
+            "B: Compass",
+            "C: Printing Press",
+            "D: Steam Engine"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Printing_Press.jpg",
+            "fake_image1": "Common_Sense_Questions/Printing_Press_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Printing_Press_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Printing_Press_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 97
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "choice": [
+            "A: Gold",
+            "B: Iron",
+            "C: Diamond",
+            "D: Ruby"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Diamond.jpg",
+            "fake_image1": "Common_Sense_Questions/Diamond_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Diamond_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Diamond_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 68
+    },
+    {
+        "question": "Which mountain is the highest in the world?",
+        "choice": [
+            "A: Mount Fuji",
+            "B: Mount Kilimanjaro",
+            "C: Mount Everest",
+            "D: Mount McKinley"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Mount_Everest.jpg",
+            "fake_image1": "Common_Sense_Questions/Mount_Everest_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Mount_Everest_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Mount_Everest_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 88
+    },
+    {
+        "question": "Which famous painting is housed in the Louvre Museum?",
+        "choice": [
+            "A: The Starry Night",
+            "B: The Scream",
+            "C: The Mona Lisa",
+            "D: Girl with a Pearl Earring"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Mona_Lisa.jpg",
+            "fake_image1": "Common_Sense_Questions/Mona_Lisa_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Mona_Lisa_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Mona_Lisa_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 10
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "choice": [
+            "A: Amazon River",
+            "B: Nile River",
+            "C: Yangtze River",
+            "D: Mississippi River"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Nile_River.jpg",
+            "fake_image1": "Common_Sense_Questions/Nile_River_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Nile_River_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Nile_River_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 50
+    },
+    {
+        "question": "What is the smallest continent in the world?",
+        "choice": [
+            "A: Europe",
+            "B: Antarctica",
+            "C: Australia",
+            "D: South America"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Australia.jpg",
+            "fake_image1": "Common_Sense_Questions/Australia_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Australia_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Australia_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 28
+    },
+    {
+        "question": "What is the national flower of Japan?",
+        "choice": [
+            "A: Rose",
+            "B: Tulip",
+            "C: Cherry Blossom",
+            "D: Lotus"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Cherry_Blossom.jpg",
+            "fake_image1": "Common_Sense_Questions/Cherry_Blossom_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Cherry_Blossom_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Cherry_Blossom_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 55
+    },
+    {
+        "question": "Which structure in China is visible from space?",
+        "choice": [
+            "A: Forbidden City",
+            "B: Great Wall",
+            "C: Temple of Heaven",
+            "D: Terracotta Army"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Great_Wall.jpg",
+            "fake_image1": "Common_Sense_Questions/Great_Wall_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Great_Wall_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Great_Wall_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 45
+    },
+    {
+        "question": "Which tool is used for measuring precise angles in carpentry and construction?",
+        "choice": [
+            "A: Ruler",
+            "B: Protractor",
+            "C: Level",
+            "D: Tape Measure"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Protractor.jpg",
+            "fake_image1": "Common_Sense_Questions/Protractor_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Protractor_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Protractor_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 9
+    },
+    {
+        "question": "What tool is used to detect the presence of electrical current in wires?",
+        "choice": [
+            "A: Voltmeter",
+            "B: Screwdriver",
+            "C: Multimeter",
+            "D: Wire Stripper"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Voltmeter.jpg",
+            "fake_image1": "Common_Sense_Questions/Voltmeter_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Voltmeter_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Voltmeter_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 42
+    },
+    {
+        "question": "Which natural phenomenon creates a colorful arc in the sky after rain?",
+        "choice": [
+            "A: Lightning",
+            "B: Rainbow",
+            "C: Aurora",
+            "D: Sunset"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Rainbow.jpg",
+            "fake_image1": "Common_Sense_Questions/Rainbow_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Rainbow_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Rainbow_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 52
+    },
+    {
+        "question": "Which citrus fruit is known for its high vitamin C content and yellow color?",
+        "choice": [
+            "A: Orange",
+            "B: Lime",
+            "C: Lemon",
+            "D: Grapefruit"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Lemon.jpg",
+            "fake_image1": "Common_Sense_Questions/Lemon_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Lemon_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Lemon_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 57
+    },
+    {
+        "question": "What tool is used to measure atmospheric pressure and predict weather changes?",
+        "choice": [
+            "A: Thermometer",
+            "B: Barometer",
+            "C: Hygrometer",
+            "D: Anemometer"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Barometer.jpg",
+            "fake_image1": "Common_Sense_Questions/Barometer_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Barometer_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Barometer_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 25
+    },
+    {
+        "question": "Which natural phenomenon involves molten rock erupting from the Earth's surface?",
+        "choice": [
+            "A: Earthquake",
+            "B: Tsunami",
+            "C: Volcano",
+            "D: Hurricane"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Volcano.jpg",
+            "fake_image1": "Common_Sense_Questions/Volcano_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Volcano_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Volcano_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 76
+    },
+    {
+        "question": "Which tropical fruit is known as the 'King of Fruits' and has a strong odor?",
+        "choice": [
+            "A: Mango",
+            "B: Pineapple",
+            "C: Durian",
+            "D: Jackfruit"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Durian.jpg",
+            "fake_image1": "Common_Sense_Questions/Durian_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Durian_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Durian_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 17
+    },
+    {
+        "question": "Which brass instrument is known for its long, coiled tubing and bell-shaped end?",
+        "choice": [
+            "A: Trumpet",
+            "B: French Horn",
+            "C: Trombone",
+            "D: Tuba"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/French_Horn.jpg",
+            "fake_image1": "Common_Sense_Questions/French_Horn_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/French_Horn_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/French_Horn_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 16
+    },
+    {
+        "question": "What tool is used to magnify small objects for detailed observation?",
+        "choice": [
+            "A: Telescope",
+            "B: Microscope",
+            "C: Binoculars",
+            "D: Magnifying Glass"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Microscope.jpg",
+            "fake_image1": "Common_Sense_Questions/Microscope_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Microscope_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Microscope_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 5
+    },
+    {
+        "question": "Which natural phenomenon occurs when strong rotating winds form a funnel-shaped cloud?",
+        "choice": [
+            "A: Hurricane",
+            "B: Tornado",
+            "C: Cyclone",
+            "D: Thunderstorm"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Tornado.jpg",
+            "fake_image1": "Common_Sense_Questions/Tornado_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Tornado_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Tornado_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 88
+    },
+    {
+        "question": "Which fruit is known as a 'stone fruit' and has a large pit in the center?",
+        "choice": [
+            "A: Apple",
+            "B: Peach",
+            "C: Grape",
+            "D: Strawberry"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Peach.jpg",
+            "fake_image1": "Common_Sense_Questions/Peach_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Peach_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Peach_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 27
+    },
+    {
+        "question": "Which percussion instrument consists of a set of wooden blocks that are struck with mallets?",
+        "choice": [
+            "A: Drums",
+            "B: Xylophone",
+            "C: Tambourine",
+            "D: Triangle"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Xylophone.jpg",
+            "fake_image1": "Common_Sense_Questions/Xylophone_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Xylophone_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Xylophone_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 19
+    },
+    {
+        "question": "Which natural phenomenon creates waves of light in the polar night sky?",
+        "choice": [
+            "A: Meteor Shower",
+            "B: Northern Lights",
+            "C: Lightning",
+            "D: Solar Eclipse"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Northern_Lights.jpg",
+            "fake_image1": "Common_Sense_Questions/Northern_Lights_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Northern_Lights_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Northern_Lights_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 9
+    },
+    {
+        "question": "Which fruit is known for its red flesh and black seeds?",
+        "choice": [
+            "A: Watermelon",
+            "B: Apple",
+            "C: Orange",
+            "D: Banana"
+        ],
+        "answer": "A",
+        "data": {
+            "image": "Common_Sense_Questions/Watermelon.jpg",
+            "fake_image1": "Common_Sense_Questions/Watermelon_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Watermelon_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Watermelon_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 90
+    },
+    {
+        "question": "Which woodwind instrument has a distinctive curved metal neck?",
+        "choice": [
+            "A: Flute",
+            "B: Clarinet",
+            "C: Saxophone",
+            "D: Oboe"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Saxophone.jpg",
+            "fake_image1": "Common_Sense_Questions/Saxophone_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Saxophone_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Saxophone_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 44
+    },
+    {
+        "question": "Which household appliance uses electromagnetic waves to heat food quickly?",
+        "choice": [
+            "A: Toaster",
+            "B: Oven",
+            "C: Microwave",
+            "D: Air Fryer"
+        ],
+        "answer": "C",
+        "data": {
+            "image": "Common_Sense_Questions/Microwave.jpg",
+            "fake_image1": "Common_Sense_Questions/Microwave_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Microwave_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Microwave_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 94
+    },
+    {
+        "question": "Which ancient Roman building was used for gladiatorial contests and public spectacles?",
+        "choice": [
+            "A: Pantheon",
+            "B: Colosseum",
+            "C: Forum",
+            "D: Circus Maximus"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Colosseum.jpg",
+            "fake_image1": "Common_Sense_Questions/Colosseum_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Colosseum_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Colosseum_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 30
+    },
+    {
+        "question": "Which office supply is used to bind papers together without permanently damaging them?",
+        "choice": [
+            "A: Stapler",
+            "B: Paper Clip",
+            "C: Tape",
+            "D: Glue"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Paper_Clip.jpg",
+            "fake_image1": "Common_Sense_Questions/Paper_Clip_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Paper_Clip_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Paper_Clip_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 66
+    },
+    {
+        "question": "Which famous temple complex in Cambodia is the largest religious monument in the world?",
+        "choice": [
+            "A: Borobudur",
+            "B: Angkor Wat",
+            "C: Taj Mahal",
+            "D: Temple of Heaven"
+        ],
+        "answer": "B",
+        "data": {
+            "image": "Common_Sense_Questions/Angkor_Wat.jpg",
+            "fake_image1": "Common_Sense_Questions/Angkor_Wat_negative1.jpg",
+            "fake_image2": "Common_Sense_Questions/Angkor_Wat_negative2.jpg",
+            "fake_image3": "Common_Sense_Questions/Angkor_Wat_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "Common_Sense_Question",
+        "id": 37
+    }
+]

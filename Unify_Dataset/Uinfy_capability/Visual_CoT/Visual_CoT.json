@@ -1,0 +1,3326 @@
+[
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Down",
+        "Left",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/82/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/82/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/82/step_2.png"
+    },
+    "id": 18
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/58/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/58/step_1.png"
+    },
+    "id": 40
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Right",
+        "Up",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/85/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/85/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/85/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_3x3/85/step_3.png"
+    },
+    "id": 34
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Down",
+        "Right",
+        "Right",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/17/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/17/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/17/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_3x3/17/step_3.png"
+    },
+    "id": 2
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/51/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/51/step_1.png"
+    },
+    "id": 78
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/53/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/53/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/53/step_2.png"
+    },
+    "id": 71
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Left",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/54/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/54/step_1.png"
+    },
+    "id": 8
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Right",
+        "Down",
+        "Down",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/106/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/106/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/106/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_3x3/106/step_3.png"
+    },
+    "id": 82
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Right",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/19/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/19/step_1.png"
+    },
+    "id": 84
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/40/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/40/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/40/step_2.png"
+    },
+    "id": 66
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Right",
+        "Right",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/87/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/87/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/87/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_3x3/87/step_3.png"
+    },
+    "id": 43
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Right",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/86/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/86/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/86/step_2.png"
+    },
+    "id": 7
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Left",
+        "Up",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/4/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/4/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/4/step_2.png"
+    },
+    "id": 13
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Left",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/97/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/97/step_1.png"
+    },
+    "id": 67
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Down",
+        "Down",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/91/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/91/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/91/step_2.png"
+    },
+    "id": 36
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/59/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/59/step_1.png"
+    },
+    "id": 29
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Down",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/20/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/20/step_1.png"
+    },
+    "id": 27
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Down",
+        "Down",
+        "Left",
+        "Left",
+        "Up",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/55/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/55/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/55/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_3x3/55/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_3x3/55/step_4.png",
+      "Step_5": "Visual_CoT/VSP/data_3x3/55/step_5.png"
+    },
+    "id": 63
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Left",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/52/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/52/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/52/step_2.png"
+    },
+    "id": 44
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Right",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/57/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/57/step_1.png"
+    },
+    "id": 75
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Left",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/74/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/74/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/74/step_2.png"
+    },
+    "id": 20
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Left",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/64/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/64/step_1.png"
+    },
+    "id": 68
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Left",
+        "Up",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/117/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/117/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/117/step_2.png"
+    },
+    "id": 64
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Left",
+        "Up",
+        "Up",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/2/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/2/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/2/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_3x3/2/step_3.png"
+    },
+    "id": 37
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Right",
+        "Down",
+        "Down",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/104/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/104/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/104/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_3x3/104/step_3.png"
+    },
+    "id": 73
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Down",
+        "Left",
+        "Left",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/63/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/63/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/63/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_3x3/63/step_3.png"
+    },
+    "id": 58
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Left",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/26/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/26/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/26/step_2.png"
+    },
+    "id": 19
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/6/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/6/step_1.png"
+    },
+    "id": 32
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Right",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/36/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/36/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/36/step_2.png"
+    },
+    "id": 38
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_3x3",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Right",
+        "Right",
+        "Down",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_3x3/1/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_3x3/1/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_3x3/1/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_3x3/1/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_3x3/1/step_4.png",
+      "Step_5": "Visual_CoT/VSP/data_3x3/1/step_5.png"
+    },
+    "id": 49
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/16/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/16/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/16/step_2.png"
+    },
+    "id": 21
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Left",
+        "Left",
+        "Down",
+        "Down",
+        "Right",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/17/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/17/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/17/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_4x4/17/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_4x4/17/step_4.png",
+      "Step_5": "Visual_CoT/VSP/data_4x4/17/step_5.png"
+    },
+    "id": 86
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Left",
+        "Left",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/89/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/89/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/89/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_4x4/89/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_4x4/89/step_4.png"
+    },
+    "id": 46
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Right",
+        "Right",
+        "Up",
+        "Up",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/30/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/30/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/30/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_4x4/30/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_4x4/30/step_4.png"
+    },
+    "id": 15
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Right",
+        "Right",
+        "Down",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/10/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/10/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/10/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_4x4/10/step_3.png"
+    },
+    "id": 33
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Left",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/7/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/7/step_1.png"
+    },
+    "id": 22
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Down",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/54/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/54/step_1.png"
+    },
+    "id": 54
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Left",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/32/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/32/step_1.png"
+    },
+    "id": 70
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Down",
+        "Right",
+        "Right",
+        "Right",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/56/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/56/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/56/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_4x4/56/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_4x4/56/step_4.png"
+    },
+    "id": 80
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Left",
+        "Up",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/4/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/4/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/4/step_2.png"
+    },
+    "id": 10
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Up",
+        "Left",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/18/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/18/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/18/step_2.png"
+    },
+    "id": 53
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Down",
+        "Down",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/119/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/119/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/119/step_2.png"
+    },
+    "id": 61
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Right",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/91/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/91/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/91/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_4x4/91/step_3.png"
+    },
+    "id": 89
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Right",
+        "Right",
+        "Up",
+        "Up",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/43/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/43/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/43/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_4x4/43/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_4x4/43/step_4.png"
+    },
+    "id": 1
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Up",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/35/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/35/step_1.png"
+    },
+    "id": 85
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/29/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/29/step_1.png"
+    },
+    "id": 24
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Left",
+        "Up",
+        "Up",
+        "Right",
+        "Right",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/114/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/114/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/114/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_4x4/114/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_4x4/114/step_4.png",
+      "Step_5": "Visual_CoT/VSP/data_4x4/114/step_5.png"
+    },
+    "id": 50
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Right",
+        "Up",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/37/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/37/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/37/step_2.png"
+    },
+    "id": 45
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Right",
+        "Up",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/71/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/71/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/71/step_2.png"
+    },
+    "id": 42
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Right",
+        "Down",
+        "Down",
+        "Left",
+        "Down",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/20/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/20/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/20/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_4x4/20/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_4x4/20/step_4.png",
+      "Step_5": "Visual_CoT/VSP/data_4x4/20/step_5.png"
+    },
+    "id": 48
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Right",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/52/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/52/step_1.png"
+    },
+    "id": 69
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Right",
+        "Right",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/22/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/22/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/22/step_2.png"
+    },
+    "id": 76
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Down",
+        "Right",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/105/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/105/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/105/step_2.png"
+    },
+    "id": 23
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Down",
+        "Left",
+        "Left",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/44/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/44/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/44/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_4x4/44/step_3.png"
+    },
+    "id": 6
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Left",
+        "Left",
+        "Left",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/27/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/27/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/27/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_4x4/27/step_3.png"
+    },
+    "id": 83
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Left",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/92/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/92/step_1.png"
+    },
+    "id": 56
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Right",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/80/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/80/step_1.png"
+    },
+    "id": 26
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Down",
+        "Down",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/15/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/15/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/15/step_2.png"
+    },
+    "id": 59
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Left",
+        "Down",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/36/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/36/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_4x4/36/step_2.png"
+    },
+    "id": 72
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_4x4",
+    "data": {
+      "Action": [
+        "Right",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_4x4/1/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_4x4/1/step_1.png"
+    },
+    "id": 55
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Up",
+        "Right",
+        "Right",
+        "Right",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/16/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/16/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/16/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/16/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_5x5/16/step_4.png"
+    },
+    "id": 90
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Up",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1.3
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/85/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/85/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/85/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/85/step_3.png"
+    },
+    "id": 14
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Right",
+        "Down",
+        "Down",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/17/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/17/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/17/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/17/step_3.png"
+    },
+    "id": 16
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Right",
+        "Right",
+        "Down",
+        "Down",
+        "Left",
+        "Left",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          1
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          2.3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/96/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/96/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/96/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/96/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_5x5/96/step_4.png",
+      "Step_5": "Visual_CoT/VSP/data_5x5/96/step_5.png",
+      "Step_6": "Visual_CoT/VSP/data_5x5/96/step_6.png"
+    },
+    "id": 87
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Down",
+        "Down",
+        "Down",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/9/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/9/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/9/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/9/step_3.png"
+    },
+    "id": 52
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Right",
+        "Up",
+        "Up",
+        "Up",
+        "Left",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1.2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/30/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/30/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/30/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/30/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_5x5/30/step_4.png",
+      "Step_5": "Visual_CoT/VSP/data_5x5/30/step_5.png"
+    },
+    "id": 5
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Right",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/42/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/42/step_1.png"
+    },
+    "id": 4
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Left",
+        "Left",
+        "Down",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/11/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/11/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/11/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/11/step_3.png"
+    },
+    "id": 74
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Right",
+        "Right",
+        "Down",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/34/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/34/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/34/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/34/step_3.png"
+    },
+    "id": 65
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Up",
+        "Right",
+        "Right",
+        "Up",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/54/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/54/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/54/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/54/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_5x5/54/step_4.png"
+    },
+    "id": 28
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Left",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/19/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/19/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/19/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/19/step_3.png"
+    },
+    "id": 62
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Up",
+        "Left",
+        "Left",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1.1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/60/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/60/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/60/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/60/step_3.png"
+    },
+    "id": 79
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Left",
+        "Left",
+        "Down",
+        "Down",
+        "Right",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4.3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/32/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/32/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/32/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/32/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_5x5/32/step_4.png",
+      "Step_5": "Visual_CoT/VSP/data_5x5/32/step_5.png"
+    },
+    "id": 60
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Up",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/56/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/56/step_1.png"
+    },
+    "id": 77
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Left",
+        "Down",
+        "Left",
+        "Left",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          4
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/4/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/4/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/4/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/4/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_5x5/4/step_4.png"
+    },
+    "id": 17
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Left",
+        "Up",
+        "Up",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/18/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/18/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/18/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/18/step_3.png"
+    },
+    "id": 3
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Right",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/41/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/41/step_1.png"
+    },
+    "id": 9
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Left",
+        "Up",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/39/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/39/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/39/step_2.png"
+    },
+    "id": 25
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/29/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/29/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/29/step_2.png"
+    },
+    "id": 57
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Right",
+        "Right",
+        "Down",
+        "Down",
+        "Down",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4.3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/37/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/37/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/37/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/37/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_5x5/37/step_4.png",
+      "Step_5": "Visual_CoT/VSP/data_5x5/37/step_5.png"
+    },
+    "id": 31
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Up",
+        "Left",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          4
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/20/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/20/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/20/step_2.png"
+    },
+    "id": 35
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Right",
+        "Up",
+        "Up",
+        "Left",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/14/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/14/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/14/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/14/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_5x5/14/step_4.png"
+    },
+    "id": 11
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Down",
+        "Down",
+        "Left",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/52/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/52/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/52/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/52/step_3.png"
+    },
+    "id": 81
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Right",
+        "Down",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/3/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/3/step_1.png"
+    },
+    "id": 41
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Left",
+        "Left",
+        "Left",
+        "Up",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/21/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/21/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/21/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/21/step_3.png",
+      "Step_4": "Visual_CoT/VSP/data_5x5/21/step_4.png"
+    },
+    "id": 51
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Right",
+        "Up",
+        "Up",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          1
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/28/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/28/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/28/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/28/step_3.png"
+    },
+    "id": 30
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Up",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          3
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/2/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/2/step_1.png"
+    },
+    "id": 39
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Up",
+        "Up",
+        "Left",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          3,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/46/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/46/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/46/step_2.png"
+    },
+    "id": 12
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Right",
+        "Right",
+        "Right",
+        "Up",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          1,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/6/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/6/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/6/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/6/step_3.png"
+    },
+    "id": 47
+  },
+  {
+    "category": "Visual CoT",
+    "subcategory": "data_5x5",
+    "data": {
+      "Action": [
+        "Right",
+        "Up",
+        "Up",
+        "Right",
+        "Finish"
+      ],
+      "Coordinate": [
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ],
+      "Step_0": "Visual_CoT/VSP/data_5x5/25/step_0.png",
+      "Step_1": "Visual_CoT/VSP/data_5x5/25/step_1.png",
+      "Step_2": "Visual_CoT/VSP/data_5x5/25/step_2.png",
+      "Step_3": "Visual_CoT/VSP/data_5x5/25/step_3.png"
+    },
+    "id": 88
+  }
+]

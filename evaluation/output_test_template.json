@@ -1,0 +1,175 @@
+[
+    {
+        "question": "What kind of human behavior does this picture describe?",
+        "answer": "D",
+        "category": "Single_Image_Perception_and_Understanding",
+        "image": [
+          "Single_Image_Perception_and_Understanding/MMBench/799782.png"
+        ],
+        "source": "MMBench",
+        "choice": [
+          "A. A family is participating in a charity walk, raising awareness and funds for a worthy cause while enjoying a scenic route.",
+          "B. A group of coworkers are practicing team-building exercises, bonding and collaborating while improving communication and productivity.",
+          "C. A family is building sandcastles on a beach, digging, shaping, and decorating while letting their imaginations run wild.",
+          "D. A group of people gathered in the square, their faces wearing strange white masks"
+        ],
+        "subcategory": "action_recognition",
+        "id": 1352,
+        "output": "D"
+    },
+    {
+        "category": "Text-Image_Generation",
+        "Text_Prompt": "A baseball game is in progress with a batter at home plate, a catcher behind him, and an umpire to the side. The stands are filled with spectators, and the scene is set in a large stadium.",
+        "source": "COCO",
+        "subcategory": " ",
+        "data": {
+        "image": "Text-Image_Generation/COCO/image/184.png"
+        },
+        "id": 1323,
+        "output": "/data/xwl/xwl_code/Unify_Benchmark/results/Generation/HermersFlow/generated_1323.png"
+    },
+    {
+        "category": "Conditional_Image_to_Video_Generation",
+        "Text_Prompt": "in the style of don bluth: a 2d cell animated man wearing just underpants is climbing up",
+        "source": "TIP-I2V",
+        "subcategory": "Fantasy landscape",
+        "data": {
+          "image": "Conditional_Image_to_Video_Generation/TIP-I2V/193.png",
+          "video": "Conditional_Image_to_Video_Generation/TIP-I2V-Videos/2034aeab-b43c-5622-a20e-9560422c25d4.mp4"
+        },
+        "id": 586,
+        "output": "/data/xwl/xwl_data/output_videos/video_586/output.mp4"
+      },
+      {
+        "category": "Video prediction",
+        "Text_Prompt": "Woman Doing Online Live Makeup Tutorial.",
+        "source": "Pexel Videos",
+        "subcategory": " ",
+        "data": {
+          "image": "Image-to-Video_Generation/Pexel_Videos/Image/16.png",
+          "video": "Image-to-Video_Generation/Pexel_Videos/Video/16.mp4"
+        },
+        "id": 443,
+        "output": "/data/xwl/xwl_data/output_videos/video_443/output.mp4"
+      },
+      {
+        "subcategory": "text",
+        "category": "Image_Editing_and_Explaining",
+        "question": "Add the phrase \"FAST FOOD\" in small letters.",
+        "data": {
+          "image": "Text-Image_Editing/Emu_Edit/image/97.png",
+          "edited_image": "Text-Image_Editing/Emu_Edit/edited_image/97.png",
+          "fake_image1": "Text-Image_Editing/Emu_Edit/fake_image1/97.png",
+          "fake_image2": "Text-Image_Editing/Emu_Edit/fake_image2/97.png",
+          "fake_image3": "Text-Image_Editing/Emu_Edit/fake_image3/97.png"
+        },
+        "choice": [
+          "C: ```json\n{\n  \"description\": \"The image features a table with various fast food items, including a hot dog with mustard and cheese, a bowl of peanuts, and a person holding another hot dog with toppings. The editing requirement is to add the phrase 'FAST FOOD' in small letters to the image, likely to complement the theme and highlight the type of food depicted.\n```",
+          "A: ```json The image features a table with various fast food items, including a hot dog with mustard and cheese, a bowl of peanuts, and a person holding another hot dog with toppings. The editing requirement is to add the phrase 'FOOD FESTIVAL' in small letters to the image, likely to complement the theme and highlight the type of food depicted. ```",
+          "B: ```json The image features a table with various fast food items, including a burger with lettuce and tomato, a bowl of peanuts, and a person holding another hot dog with toppings. The editing requirement is to add the phrase 'FAST FOOD' in small letters to the image, likely to complement the theme and highlight the type of food depicted. ```",
+          "D: ```json The image features a table with various fast food items, including a pizza slice with pepperoni, a bowl of peanuts, and a person holding a soft drink with a straw. The editing requirement is to adjust the lighting to give the image a more vibrant and appetizing look, enhancing the appeal of the food. ```"
+        ],
+        "answer": "C",
+        "id": 136,
+        "output": {
+          "output_explanation": "Successfully added the phrase \"FAST FOOD\" in small letters to the image.",
+          "output_image": "/data/xwl/xwl_code/Unify_Benchmark/results/Image_Explaning_and_Editing/SEED/output_20250216_074920/output_136.jpg"
+        }
+      },
+      {
+        "question": "In trapezoid ABCD as shown (AB||CD),  AB=10units,  CD=6units,  AD=5units, and the height of the trapezoid (the perpendicular distance between  AB and CD) is  units. Determine the area of trapezoid ABCD.",
+        "choice": [
+          "A: 30",
+          "B: 16",
+          "C: 38",
+          "D: 32"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+          "image": "Math_Reasoning/VisualSketchpad/12.png",
+          "image_Auxiliary_lines": "Math_Reasoning/VisualSketchpad/12_Auxiliary_lines.png",
+          "image_Auxiliary_lines_negative1": "Math_Reasoning/VisualSketchpad/12_Auxiliary_lines_negative1.png",
+          "image_Auxiliary_lines_negative2": "Math_Reasoning/VisualSketchpad/12_Auxiliary_lines_negative2.png",
+          "image_Auxiliary_lines_negative3": "Math_Reasoning/VisualSketchpad/12_Auxiliary_lines_negative3.png"
+        },
+        "id": 22,
+        "output": {
+          "output_choice": "B",
+          "output_image": "/data/xwl/xwl_code/Unify_Benchmark/results/Math_Geo/SEED-14B/output_22.jpg"
+        }
+      },
+      {
+        "id": 3,
+        "data": {
+          "img_a": "Spot_Diff/00785_15/img_a.jpg",
+          "img_b": "Spot_Diff/00785_15/img_b.jpg",
+          "img_diff_a": "Spot_Diff/00785_15/img_diff_a.jpg",
+          "img_diff_a_negative1": "Spot_Diff/00785_15/img_diff_a_negative1.jpg",
+          "img_diff_a_negative2": "Spot_Diff/00785_15/img_diff_a_negative2.jpg",
+          "img_diff_a_negative3": "Spot_Diff/00785_15/img_diff_a_negative3.jpg"
+        },
+        "category": "Uinfy_capability",
+        "subcategory": "SpotDiff",
+        "choice": [
+          "A: 15",
+          "B: 17",
+          "C: 16",
+          "D: 13"
+        ],
+        "answer": "A",
+        "output": {
+          "selected_answer": "A",
+          "difference_image": "/data/xwl/xwl_code/Unify_Benchmark/results/SpotDiff/SEED-14B/diff_3_attempt4.png",
+          "explanation": "A. 15."
+        }
+      },
+      {
+        "category": "Visual CoT",
+        "subcategory": "data_3x3",
+        "data": {
+          "Action": [
+            "Down",
+            "Left",
+            "Left",
+            "Finish"
+          ],
+          "Coordinate": [
+            [
+              2,
+              3
+            ],
+            [
+              3,
+              3
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              3,
+              1
+            ]
+          ],
+          "Step_0": "Visual_CoT/VSP/data_3x3/82/step_0.png",
+          "Step_1": "Visual_CoT/VSP/data_3x3/82/step_1.png",
+          "Step_2": "Visual_CoT/VSP/data_3x3/82/step_2.png"
+        },
+        "id": 18,
+        "outputs": {
+          "output_step_0": {
+            "output_action": "Up",
+            "output_location": [
+              3,
+              2
+            ],
+            "output_image": "/data/xwl/xwl_code/Unify_Benchmark/results/VSP/SEED-14B/output_18_step_0.png",
+            "full_text": "Successfully analyzed the maze. The next move is UP, and the location is [3,2]. The updated visualization is as follows:"
+          }
+        }
+      }
+
+]
+

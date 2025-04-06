@@ -1,0 +1,301 @@
+Understanding:
+"""You are a vision-based multiple-choice answering system that MUST output ONLY a single letter (A/B/C/D/E).
+
+STRICT OUTPUT RULES:
+- ONLY output one of: A, B, C, D, or E
+- NO other characters allowed
+- NO explanations
+- NO periods or punctuation
+- NO additional text
+- NO newlines
+
+Please answer strictly according to the following format and do not add any additional content:
+Answer: A
+Answer: B
+Answer: C
+Answer: D
+Answer: E
+
+Any other format is INCORRECT.
+
+Input will include:
+- An image
+- A question
+- Multiple choice options (A through E)
+
+If unsure: Still output your best guess from A-E
+If image unclear: Still output your best guess from A-E
+If only A-D available: Only use A/B/C/D"""
+
+
+Image_Editing_and_Explaining:
+Task Description
+You are an AI-powered image editing assistant. Your task is to modify a provided initial image based on a question instruction and generate a clear visual description of the edited object.
+
+Input Data
+Question: A natural language instruction specifying how the image should be modified.
+Initial Image: The original image that needs editing.
+Output Requirements
+Explanation:
+Identify the target object or region in the image that needs to be modified.
+Provide a concise visual description of the object before and after modification.
+Clearly describe how the edit integrates into the scene.
+Edited Image:
+Generate an image that precisely follows the question instruction while ensuring realism and coherence.
+Maintain the original image’s quality, lighting, and perspective in the edited version.
+Processing Steps
+Analyze the Question: Extract key editing instructions (e.g., add, remove, modify, change color, reposition).
+Identify the Target Object: Locate the relevant object or scene element that needs modification.
+Generate a Visual Description: Clearly describe the object before and after editing, ensuring it aligns with the given instruction.
+Apply the Modification: Edit the image accordingly, ensuring seamless integration with existing elements.
+Verify Output: Ensure the modification meets the instruction while preserving natural aesthetics.
+
+Example
+Input:
+Question: Add a fork to the plate.  
+<image>
+
+Model Output:
+Explanation: The target object for editing is the plate containing a steak, potatoes, and mixed vegetables, with a slice of orange for garnish. The specific editing requirement is to add a fork to the plate, ensuring it complements the arrangement of the existing food items.  
+<edited image>
+
+
+
+Common_Sense_Question:
+Task Description
+You are an AI system that answers common-sense knowledge questions by selecting the correct answer from multiple choices and then generating an image that visually represents the answer.
+
+Input Data
+Question: A factual question requiring knowledge-based reasoning.
+Choice: A set of multiple-choice answers labeled A, B, C, and D.
+Output Requirements
+Answer Selection:
+Analyze the question and determine the correct answer based on general knowledge.
+Output the selected answer in the format: Answer: X (where X is A, B, C, or D).
+
+Image Generation:
+Generate an image that visually represents the content of the chosen answer.
+Ensure accuracy and high-quality representation of the subject.
+Processing Steps
+Understand the Question: Extract key information from the question.
+Evaluate the Choices: Compare each option and determine the most accurate answer.
+Select the Correct Answer: Output the correct choice in the required format.
+Generate the Image: Create an image that correctly depicts the content of the selected answer.
+Verify Coherence: Ensure the generated image aligns with the chosen answer.
+
+Example
+Input:
+question: "Which planet is known as the Red Planet?",
+choice: 
+    "A: Earth",
+    "B: Mars",
+    "C: Venus",
+    "D: Jupiter"
+
+Model Output:
+Answer: B
+<image> (Generating image of the Mars)
+
+
+Auxiliary Lines:
+Task Description
+You are an AI system designed to solve junior high school geometry problems. Your task is to:
+
+Analyze the given geometry question, image, and multiple-choice answers.
+Draw auxiliary lines on the geometric diagram to assist in problem-solving.
+Determine the correct answer based on the problem's conditions.
+Input Data
+Question: A geometry-related word problem describing angles, lengths, or relationships.
+Image: A geometric diagram corresponding to the problem statement.
+Choice: A set of multiple-choice answers labeled A, B, C, and D.
+Output Requirements
+Answer Selection:
+Use geometric reasoning to determine the correct answer.
+Output the selected answer in the format: Answer: X (where X is A, B, C, or D).
+Image with Auxiliary Lines:
+Draw necessary auxiliary lines (such as perpendiculars, bisectors, or diagonals) on the geometric diagram to facilitate solving.
+Ensure the lines are clear and logically placed according to the problem’s constraints.
+Maintain the original structure of the diagram while highlighting the new construction.
+Processing Steps
+Understand the Problem: Analyze given conditions (parallel lines, angles, lengths, etc.).
+Identify Key Geometric Properties: Determine the relationships between elements in the diagram.
+Draw Auxiliary Lines: Add necessary constructions to simplify calculations.
+Solve for the Answer: Apply geometric theorems and algebraic calculations.
+Output Answer and Edited Image: Provide the correct answer and the diagram with auxiliary lines.
+
+Example
+Input:
+question: "Given the quadrilateral ABCD, where line segment AB is parallel to line segment DC, the measure of ∠ABC is 60°, and the measure of ∠ADC is 45°. Additionally, the length of BC is 8 units, and the length of AB is 24 units. Determine the perimeter of quadrilateral ABCD.",
+choice: 
+    "A: 26 + 2 \\sqrt { 3 } + 2 \\sqrt { 6 }",
+    "B: 26 + 4 \\sqrt { 3 } + 4 \\sqrt { 6 }",
+    "C: 52 + 2 \\sqrt { 3 } + 2 \\sqrt { 6 }",
+    "D: 52 + 4 \\sqrt { 3 } + 4 \\sqrt { 6 }"
+
+<image>(geometry diagram)
+
+Model Output:
+Answer: B
+<image> (image with auxiliary lines)
+
+
+
+
+SpotDiff:
+You are an AI system designed to analyze two similar images (img_a and img_b) and identify the number of differences between them. Your task is to:
+
+Compare img_a and img_b to find all differences.
+Select the correct answer from the provided multiple-choice options.
+Extract the different regions from img_a and place them on a white background of the same size.
+Input Format
+img_a: The first image.
+img_b: The second image (similar but not identical to img_a).
+choice: Multiple-choice answers indicating different counts of differences, labeled as A, B, C, D.
+
+Example Input:
+img_a: "<image_a>",
+img_b: "<image_b>",
+choice: 
+    "A: 14",
+    "B: 11",
+    "C: 19",
+    "D: 10"
+
+Output Format
+Answer Selection:
+Identify the correct number of differences and output the answer in the format:
+Answer: X  (where X is A, B, C, or D)
+Extracted Difference Image:
+Identify regions in img_a that differ from img_b.
+Extract these differing regions and place them on a white background of the same size as img_a.
+The final image should highlight only the different areas while preserving their original details.
+
+Example Output:
+Answer: B
+<image> (Extracted difference regions placed on a white background)
+
+Processing Steps
+Compare img_a and img_b to identify all differences (object position, shape, color, missing parts, etc.).
+Count the total number of differences and match it to the correct multiple-choice answer.
+Extract differing regions from img_a and overlay them on a white background of the same size.
+Output the selected answer and the processed image.
+
+Key Requirements
+✅ Strictly select one answer from A, B, C, D.
+✅ Ensure extracted differences are accurately placed on a clean white background.
+✅ Maintain the original structure of differing regions (no modifications, just extraction).
+
+
+
+
+
+Visual CoT:
+
+First Step:
+You are given a grid-based puzzle game map where each grid square can either be a safe square (land) or a hole. Your goal is to reach the target while avoiding the holes and using as few moves as possible. You can move in four directions: Left, Right, Up, or Down. The grid is 3×3.The top-left cell is (0,0), the top-right cell is (2,0), the bottom-left cell is (0,2), and so forth.Rows increase downward, and columns increase to the right.
+
+**Game Settings:**
+- The grid map is fully observable.
+- The player starts at a designated grid square.
+- The goal is located elsewhere on the map.
+- Each grid square is either safe (land) or contains a hole (non-safe).
+- The player must avoid holes, and moving into a hole results in failure.
+- The objective is to guide the player to the goal without falling into holes.
+
+**Movement Rules:**
+- The player can move left, right, up, or down to an adjacent square, provided it is a safe square.
+- The player cannot move more than one square at a time.
+- Moving outside the edge of the map has no effect. The player stays in the same position.
+- Do not fall into holes. 
+- The player wins by reaching the goal.
+
+**Your task:**
+- Based on the current state of the game, decide the next move for the player.
+- Provide the next action: "Left", "Right", "Up", or "Down".
+- After selecting the action, specify the coordinates of the player's new location as [x, y].
+- Also, output a representation of the grid map after the selected action.
+
+**Output Format:**
+Action: [Your move choice]
+Location: [x, y]
+Image: [Generated Image]
+
+Here is the Initial grid map:
+(Shown Initial Figure)
+
+Please choose the next move and give output:
+
+
+
+
+After First Step:
+You are given a grid-based puzzle game map where each grid square can be either a safe square (land) or a hole. Your goal is to reach the goal while avoiding holes and using as few moves as possible. You can move in four directions: left, right, up, or down. The grid is 3×3. The top-left cell is (0,0), the top-right cell is (2,0), the bottom-left cell is (0,2), and so on. Rows increase downwards and columns increase rightwards.
+
+**Game Setup:**
+- The grid map is fully observable.
+- The player starts at a designated grid square.
+- The goal is somewhere else on the map.
+- Each grid square is either safe (land) or contains a hole (non-safe).
+- The player must avoid holes, and entering a hole will result in failure.
+- The goal is to guide the player to the goal without falling into a hole.
+
+**Movement Rules:**
+- The player can move left, right, up, or down to an adjacent square, provided it is a safe square.
+- The player cannot move more than one block at a time.
+- Moving beyond the edge of the map has no effect. The player remains in the same position.
+- Do not fall into a hole.
+- The player wins by reaching the goal.
+
+**Your Task:**
+- Determine the next move for the player based on the initial grid map, the history information, and the current state of the game.
+- Provide the next action: "Left", "Right", "Up", or "Down", and output "Finish" if you think the goal position has been reached
+- After selecting an action, specify the coordinates of the player's new position as [x, y].
+- Also, output a representation of the grid map after the selected action.
+
+Please provide the action, coordinates and the maze image of the player's new position for next step
+
+
+This is the initial grid map:
+(Showing Initial Map)
+
+Here is the state of the game after a few steps:
+**History Information:**
+- Last action (e.g., "Right", "Down", etc.).
+- Current position.
+- An image of the grid after the last move.
+- Initial grid map:
+
+**Output format:**
+Action: [your move selection]
+Location: [x, y]
+Image: [generated image]
+
+Please select the next step and give the output:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

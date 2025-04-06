@@ -1,0 +1,1042 @@
+[
+    {
+        "question": "Given the quadrilateral ABCD, where line segment AB is parallel to line segment DC, the measure of ∠ABC is 60°, and the measure of ∠ADC is 45°. Additionally, the length of BC is 8 units, and the length of AB is 24 units. Determine the perimeter of quadrilateral ABCD.",
+        "choice": [
+            "A: 26 + 2 \\sqrt { 3 } + 2 \\sqrt { 6 }",
+            "B: 26 + 4 \\sqrt { 3 } + 4 \\sqrt { 6 }",
+            "C: 52 + 2 \\sqrt { 3 } + 2 \\sqrt { 6 }",
+            "D: 52 + 4 \\sqrt { 3 } + 4 \\sqrt { 6 }"
+        ],
+        "answer": "D",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/428.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/428_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/428_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/428_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/428_Auxiliary_lines_negative3.png"
+        },
+        "id": 45
+    },
+    {
+        "question": "Given a parallelogram CDEF, where the length of line segment ED is 10 units and the length of line segment CD is 30 units, with the measure of ∠CED being 60 degrees, find the area of the parallelogram. Round your answer to the nearest tenth if necessary.",
+        "choice": [
+            "A: 150",
+            "B: 259.9",
+            "C: 300",
+            "D: 519.6"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/871.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/871_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/871_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/871_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/871_Auxiliary_lines_negative3.png"
+        },
+        "id": 40
+    },
+    {
+        "question": "In parallelogram WXYZ, the measure of ∠XWZ is 105°, the length of side YX is 24 units, and the length of side ZY is 28 units. Using this information, determine the length of diagonal WZ.",
+        "choice": [
+            "A: 4",
+            "B: 24",
+            "C: 28",
+            "D: 52"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/421.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/421_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/421_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/421_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/421_Auxiliary_lines_negative3.png"
+        },
+        "id": 27
+    },
+    {
+        "question": "In circle \\(\\odot R\\), let points \\(S\\), \\(U\\), \\(Y\\), \\(W\\), \\(X\\), and \\(T\\) lie on the circumference. It is given that \\(SU = 20\\) units and \\(YW = 20\\) units. Additionally, \\(\\angle YX = 45^\\circ\\). Points \\(V\\) and \\(Z\\) lie such that \\(V\\) is on the line \\(US\\), \\(Z\\) is on the line \\(YW\\), and both \\(V\\) and \\(Z\\) lie on lines that are perpendicular to other lines: \\(VS \\perp VR\\) and \\(ZR \\perp YZ\\). Given this configuration, find the measure of \\(\\angle SU\\).",
+        "choice": [
+            "A: 20",
+            "B: 30",
+            "C: 45",
+            "D: 90"
+        ],
+        "answer": "D",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/2079.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/2079_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/2079_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/2079_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/2079_Auxiliary_lines_negative3.png"
+        },
+        "id": 2
+    },
+    {
+        "question": "Consider the geometric figure ADBCN. You are given that the length of line segment AN is 5 units, BD is 8 units, BC is 12 units, and CN is 15 units. It is known that line segment DB is perpendicular to line segment BC, line segment BC is perpendicular to line segment NC, and line segment AN is perpendicular to line segment NC. Using this information, find the area of the figure ADBCN. Round your answer to the nearest tenth if necessary.",
+        "choice": [
+            "A: 24.5",
+            "B: 49",
+            "C: 155.5",
+            "D: 180"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/1624.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/1624_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/1624_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/1624_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/1624_Auxiliary_lines_negative3.png"
+        },
+        "id": 46
+    },
+    {
+        "question": "Given △LMN, which is an equilateral triangle with side length NL = 8 units, a circle \\odot P is inscribed. Let points D, E, and F be the points where \\odot P touches the sides of the triangle, such that D lies on line segment ML, E lies on line segment NM, and F lies on line segment LN. The circle \\odot P is tangent to each side of the triangle at these points. What is the circumference of the circle \\odot P?",
+        "choice": [
+            "A: \\frac { 8 } { 3 } \\pi",
+            "B: \\frac { 8 } { \\sqrt 3 } \\pi",
+            "C: 8 \\sqrt 3 \\pi",
+            "D: 24 \\pi"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/1465.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/1465_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/1465_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/1465_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/1465_Auxiliary_lines_negative3.png"
+        },
+        "id": 44
+    },
+    {
+        "question": "In a geometric plane, consider a circle centered at point E with a radius of 4 units. Additionally, point J lies on line AH, point K lies on line GC, and point B lies on line GI. Furthermore, the point F lies on line LC, and the line segment DI is a part of line HI. Given these conditions, determine the area of the shaded region formed by the intersection of the circle and the regular polygon, and round your answer to the nearest tenth.",
+        "choice": [
+            "A: 0.6",
+            "B: 1.9",
+            "C: 1.4",
+            "D: 3.9"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/1841.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/1841_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/1841_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/1841_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/1841_Auxiliary_lines_negative3.png"
+        },
+        "id": 32
+    },
+    {
+        "question": "Given a geometric configuration where ∠BCJ = 105°, ∠CIK = x°, and ∠KNF = 125°, consider the following conditions: E lies on line FH, C lies on both line BD and line IJ, and E lies on line IK. Additionally, line DB is parallel to line FH. Using this information, find the measure of ∠EIC. (Hint: Consider drawing an auxiliary line to assist in solving the problem.)",
+        "choice": [
+            "A: 105",
+            "B: 120",
+            "C: 125",
+            "D: 130"
+        ],
+        "answer": "D",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/362.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/362_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/362_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/362_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/362_Auxiliary_lines_negative3.png"
+        },
+        "id": 25
+    },
+    {
+        "question": "Given a circle with center A and radius such that points B, C, and D lie on the circumference, and a regular triangle △BCD is inscribed in this circle. The length of line segment AB is 2.4 units. Determine the area of the shaded region, which is defined as the area inside the circle centered at A but outside the inscribed triangle △BCD. Round your answer to the nearest tenth.",
+        "choice": [
+            "A: 10.6",
+            "B: 15.2",
+            "C: 15.6",
+            "D: 18.1"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/253.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/253_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/253_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/253_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/253_Auxiliary_lines_negative3.png"
+        },
+        "id": 27
+    },
+    {
+        "question": "In a given geometric configuration, consider △JLA and △GJC with the following properties: ∠JLA measures 72°, and ∠GJC measures 50°. It is known that point A lies on both line HL and line IO, while point J lies on both line LG and line CN. Additionally, lines IO and CN are parallel to each other. You are asked to find the measure of ∠IAH. As a hint, consider drawing an auxiliary line to aid in solving the problem.",
+        "choice": [
+            "A: 22",
+            "B: 36",
+            "C: 50",
+            "D: 72"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/1687.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/1687_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/1687_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/1687_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/1687_Auxiliary_lines_negative3.png"
+        },
+        "id": 7
+    },
+    {
+        "question": "Consider △ABC, where ∠ABC is given to be 30°. Points A and C lie on a circle with center D and radius 3.0 units. Assume that any segment that appears to be tangent to the circle is indeed tangent. Determine the measure of arc AC, denoted as x.",
+        "choice": [
+            "A: 30",
+            "B: 120",
+            "C: 150",
+            "D: 210"
+        ],
+        "answer": "D",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/1757.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/1757_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/1757_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/1757_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/1757_Auxiliary_lines_negative3.png"
+        },
+        "id": 45
+    },
+    {
+        "question": "Given an isosceles trapezoid ABCD, where the lengths of the parallel bases are AB = 35 meters and CD = 19 meters, determine the area of the trapezoid. It is known that the perimeter of trapezoid ABCD is 74 meters. Use this information to find the lengths of the non-parallel sides AD and BC, assuming they are equal due to the isosceles property. After determining the missing dimensions, calculate the area of trapezoid ABCD.",
+        "choice": [
+            "A: 162",
+            "B: 270",
+            "C: 332.5",
+            "D: 342.25"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/472.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/472_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/472_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/472_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/472_Auxiliary_lines_negative3.png"
+        },
+        "id": 45
+    },
+    {
+        "question": "In the parallelogram ABCD, the length of line segment \\( \\overline{CB} \\) is 4 units. The measure of \\( \\angle CBO \\) is \\( 45^\\circ \\), where O is a point such that line \\( \\overline{CO} \\) is perpendicular to line \\( \\overline{BO} \\). Given these conditions, find the perimeter of the parallelogram ABCD. Round your answer to the nearest tenth if necessary.",
+        "choice": [
+            "A: 10",
+            "B: 13.7",
+            "C: 14.9",
+            "D: 16"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/1839.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/1839_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/1839_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/1839_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/1839_Auxiliary_lines_negative3.png"
+        },
+        "id": 30
+    },
+    {
+        "question": "Given a parallelogram ABCD, where the length of side AB is 36 units and the length of side AD is 22 units, point E lies on line CD such that line BE is perpendicular to line CE. The measure of ∠BCE is 30°. Find the area of the parallelogram ABCD.",
+        "choice": [
+            "A: 396",
+            "B: 560.0",
+            "C: 685.9",
+            "D: 792"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/1855.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/1855_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/1855_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/1855_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/1855_Auxiliary_lines_negative3.png"
+        },
+        "id": 38
+    },
+    {
+        "question": "Given trapezoid ABCD, where AB is parallel to CD, the length of AB is 35 meters, and the length of CD is 25 meters, the area of trapezoid ABCD is 750 square meters. Find the height of trapezoid ABCD.",
+        "choice": [
+            "A: 20",
+            "B: 25",
+            "C: 30",
+            "D: 35"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/803.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/803_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/803_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/803_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/803_Auxiliary_lines_negative3.png"
+        },
+        "id": 48
+    },
+    {
+        "question": "In circle \\(\\odot K\\), the line segment \\(MN\\) has a length of 16 units, and the measure of \\(\\widehat{MN}\\) is 98 degrees. Additionally, the points \\(M\\), \\(N\\), and \\(L\\) all lie on the circumference of the circle \\(\\odot K\\), which has a radius of 7 units. The line segment \\(JK\\) measures 10 units, and point \\(P\\) lies on line \\(MN\\). Furthermore, point \\(P\\) also lies on line \\(LJ\\), and line \\(PK\\) is perpendicular to line \\(MP\\). Find the length of the line segment \\(LN\\) and round your answer to the nearest hundredth.",
+        "choice": [
+            "A: 6.93",
+            "B: 7.50",
+            "C: 8.94",
+            "D: 10.00"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/8.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/8_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/8_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/8_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/8_Auxiliary_lines_negative3.png"
+        },
+        "id": 8
+    },
+    {
+        "question": "Given a circle with center G and radius 5.0 units, let points A, C, D, E, and B lie on the shape of the circle. Assume that pentagon ABCDE is a regular pentagon. Calculate the area of ​​pentagon ABCDE in the area of ​​circle G.",
+        "choice": [
+            "A: 35.5",
+            "B: 16.2",
+            "C: 21.1",
+            "D: 62.7"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/708.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/708_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/708_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/708_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/708_Auxiliary_lines_negative3.png"
+        },
+        "id": 30
+    },
+    {
+        "question": "Consider a regular hexagon △ABCDEF, where the length of each side is 6 units. Given that all sides of the hexagon are equal by the definition of a regular polygon, calculate the area of the hexagon. Round your answer to the nearest tenth.",
+        "choice": [
+            "A: 83.1",
+            "B: 58.0",
+            "C: 31.2",
+            "D: 36.0"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/1540.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/1540_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/1540_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/1540_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/1540_Auxiliary_lines_negative3.png"
+        },
+        "id": 16
+    },
+    {
+        "question": "Quadrilateral ABCD has AB ∥ DC. Given that ∠ABC = 70°, ∠ADC = 50°, side BC = 10 units, and side AB = 30 units, determine the perimeter of ABCD.",
+        "choice": [
+            "A: 60",
+            "B: 70",
+            "C: 80",
+            "D: 90"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/1.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/1_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/1_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/1_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/1_Auxiliary_lines_negative3.png"
+        },
+        "id": 11
+    },
+    {
+        "question": "In triangle ABC, point D lies on side BC such that AD ⟂ BC. Given that AB = 15 units, AC = 20 units, and ∠BAD = 30°, determine the area of triangle ABC.",
+        "choice": [
+            "A: 148",
+            "B: 160",
+            "C: 175",
+            "D: 180"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/3.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/3_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/3_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/3_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/3_Auxiliary_lines_negative3.png"
+        },
+        "id": 36
+    },
+    {
+        "question": "Quadrilateral ABCD has AB ∥ DC, and its diagonal AC divides it into two triangles. If AC = 18 units, ∠BAC = 40°, ∠ACD = 35°, and side AB = 24 units, determine the area of quadrilateral ABCD.",
+        "choice": [
+            "A: 180",
+            "B: 200",
+            "C: 232",
+            "D: 240"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/4.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/4_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/4_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/4_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/4_Auxiliary_lines_negative3.png"
+        },
+        "id": 35
+    },
+    {
+        "question": "In trapezoid ABCD with bases AB and DC, the midpoints of the legs AD and BC are connected by segment EF. If AB = 28 units, DC = 14 units, and the height is 10 units, determine the length of EF.",
+        "choice": [
+            "A: 14",
+            "B: 18",
+            "C: 21",
+            "D: 24"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/5.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/5_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/5_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/5_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/5_Auxiliary_lines_negative3.png"
+        },
+        "id": 8
+    },
+    {
+        "question": "In triangle ABC, point D lies on side AC such that BD ⟂ AC. Given that AB = 13 units, BC = 15 units, and the altitude BD = 12 units, determine the length of segment AD.",
+        "choice": [
+            "A: 5",
+            "B: 7",
+            "C: 9",
+            "D: 11"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/6.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/6_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/6_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/6_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/6_Auxiliary_lines_negative3.png"
+        },
+        "id": 6
+    },
+    {
+        "question": "In triangle ABC, point D is the foot of the perpendicular from C to side AB. Given that AC = 18 units, BC = 24 units, and ∠ACB = 60°, determine the length of CD.",
+        "choice": [
+            "A: 12",
+            "B: 15",
+            "C: 17",
+            "D: 20"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/9.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/9_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/9_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/9_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/9_Auxiliary_lines_negative3.png"
+        },
+        "id": 36
+    },
+    {
+        "question": "In regular hexagon ABCDEF, if side AB = 8 units, determine the area of triangle ABD.",
+        "choice": [
+            "A: 32",
+            "B: 32√3",
+            "C: 40",
+            "D: 48"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/10.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/10_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/10_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/10_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/10_Auxiliary_lines_negative3.png"
+        },
+        "id": 46
+    },
+    {
+        "question": "In quadrilateral ABCD, the lengths of sides AB and BC are 18 and 24 units, respectively, and angle ∠DCB is 60°. Using this information, determine the length of DC.",
+        "choice": [
+            "A: 32",
+            "B: 30",
+            "C: 40",
+            "D: 48"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/2.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/2_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/2_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/2_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/2_Auxiliary_lines_negative3.png"
+        },
+        "id": 11
+    },
+    {
+        "question": "In trapezoid ABCD as shown (AB||CD),  AB=10units,  CD=6units,  AD=5units, and the height of the trapezoid (the perpendicular distance between  AB and CD) is  units. Determine the area of trapezoid ABCD.",
+        "choice": [
+            "A: 30",
+            "B: 16",
+            "C: 38",
+            "D: 32"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/12.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/12_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/12_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/12_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/12_Auxiliary_lines_negative3.png"
+        },
+        "id": 22
+    },
+    {
+        "question": "In trapezoid ABCD (AB||CD), AB=15, CD=9 ,AD=4 , BC=6. Diagonals AC and BD intersect at point E , and red - colored auxiliary lines are drawn as shown. If the height of the trapezoid (the perpendicular distance between AB and CD) is 3 , find the area of ABE.",
+        "choice": [
+            "A: 30",
+            "B: 16",
+            "C: 14",
+            "D: 32"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/13.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/13_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/13_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/13_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/13_Auxiliary_lines_negative3.png"
+        },
+        "id": 1
+    },
+    {
+        "question": "In parallelogram ABCD, point E lies on side CD. Draw segment AE. If AB = 20 units, BC = 12 units, and the angle between AE and AB is 25°, compute the area of parallelogram ABCD.",
+        "choice": [
+            "A: 130",
+            "B: 116",
+            "C: 101",
+            "D: 132"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/31.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/31_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/31_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/31_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/31_Auxiliary_lines_negative3.png"
+        },
+        "id": 24
+    },
+    {
+        "question": "Right triangle ABC has a right angle at B. Let D be the midpoint of hypotenuse AC. If AB = 9 units and BC = 12 units, find the length of median BD.",
+        "choice": [
+            "A: 13",
+            "B: 16",
+            "C: 7.5",
+            "D: 5"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/11.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/11_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/11_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/11_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/11_Auxiliary_lines_negative3.png"
+        },
+        "id": 31
+    },
+    {
+        "question": "In parallelogram ABCD, the diagonals intersect at E. If AB = 15 units and the perpendicular distance from E to side AD is 4 units, calculate the area of ABCD.",
+        "choice": [
+            "A: 60",
+            "B: 116",
+            "C: 11",
+            "D: 32"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/15.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/15_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/15_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/15_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/15_Auxiliary_lines_negative3.png"
+        },
+        "id": 11
+    },
+    {
+        "question": "In triangle ABC, altitude AD is drawn to side BC. If BD = 5 units, DC = 7 units, and ∠BAD = 40°, find the length of altitude AD.",
+        "choice": [
+            "A: 5",
+            "B: 3.7",
+            "C: 10",
+            "D: 12"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/16.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/16_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/16_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/16_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/16_Auxiliary_lines_negative3.png"
+        },
+        "id": 37
+    },
+    {
+        "question": "In quadrilateral ABCD, the diagonals AC and BD intersect at E. If triangles AEB and CED are similar with a similarity ratio of 1:2, and AB = 6 units, find the length of side CD. ",
+        "choice": [
+            "A: 13",
+            "B: 16",
+            "C: 11",
+            "D: 12"
+        ],
+        "answer": "D",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/19.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/19_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/19_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/19_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/19_Auxiliary_lines_negative3.png"
+        },
+        "id": 13
+    },
+    {
+        "question": "In triangle ABC, let D be the foot of the perpendicular from B to AC. If AB = 17 units, BC = 25 units, and ∠ABD = 30°, determine the length of segment AD.",
+        "choice": [
+            "A: 13",
+            "B: 16",
+            "C: 11",
+            "D: 15"
+        ],
+        "answer": "D",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/22.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/22_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/22_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/22_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/22_Auxiliary_lines_negative3.png"
+        },
+        "id": 41
+    },
+    {
+        "question": "In rectangle ABCD, let E be a point on diagonal AC such that AE : EC = 2 : 3. If the area of triangle ABE is 20 square units, compute the area of the rectangle.",
+        "choice": [
+            "A: 130",
+            "B: 160",
+            "C: 110",
+            "D: 100"
+        ],
+        "answer": "D",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/23.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/23_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/23_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/23_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/23_Auxiliary_lines_negative3.png"
+        },
+        "id": 31
+    },
+    {
+        "question": "In parallelogram ABCD, extend side AD beyond D to point E so that DE = AD. Given AB = 12 units, AD = 9 units, and the perpendicular distance from B to AD is 7 units, find the area of quadrilateral ABED. ",
+        "choice": [
+            "A: 63",
+            "B: 95",
+            "C: 85",
+            "D: 90"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/24.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/24_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/24_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/24_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/24_Auxiliary_lines_negative3.png"
+        },
+        "id": 18
+    },
+    {
+        "question": "Quadrilateral ABCD has AB ∥ DC and satisfies AD = BC. If AB = 30 units, BC = 18 units, and the angle between side BC and side CD is 35°, find the area of ABCD.",
+        "choice": [
+            "A: 318",
+            "B: 316",
+            "C: 311",
+            "D: 312"
+        ],
+        "answer": "D",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/26.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/26_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/26_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/26_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/26_Auxiliary_lines_negative3.png"
+        },
+        "id": 1
+    },
+    {
+        "question": "In triangle ABC, drop perpendiculars from C to the line AB. Let E be the foot of the perpendicular onto AB, and extend AB beyond A so that F is the foot of the perpendicular from C onto this extension. If AE = 8 units, EF = 6 units, and ∠ACE = 45°, determine the length of side AC. ",
+        "choice": [
+            "A: 16",
+            "B: 19",
+            "C: 11",
+            "D: 12"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/27.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/27_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/27_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/27_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/27_Auxiliary_lines_negative3.png"
+        },
+        "id": 4
+    },
+    {
+        "question": "In triangle ABC, points D, E, and F lie on sides BC, AC, and AB respectively so that cevians AD, BE, and CF are concurrent. If the ratios are given by BD : DC = 2 : 3, CE : EA = 3 : 4, and AF : FB = 1 : 2, find the ratios of the areas of triangles AOB, BOC, and COA (where O is the point of concurrency).",
+        "choice": [
+            "A: 1:2: 8/3",
+            "B: 3:1: 2",
+            "C: 3:1:1/5",
+            "D: 1/2:1:5/4"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/30.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/30_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/30_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/30_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/30_Auxiliary_lines_negative3.png"
+        },
+        "id": 9
+    },
+    {
+        "question": "Given quadrilateral ABCD, line segment AB is parallel to line segment CD, the degree of ∠ABC is 65°, the degree of ∠ADC is 50°, the length of BC is 9 units, and the length of AB is 18 units. Find the perimeter of quadrilateral ABCD. ",
+        "choice": [
+            "A: 61",
+            "B: 36",
+            "C: 78",
+            "D: 12"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/40.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/40_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/40_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/40_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/40_Auxiliary_lines_negative3.png"
+        },
+        "id": 41
+    },
+    {
+        "question": "Consider the geometric figure ADBCN. It is known that the length of line segment AN is 6 units, the length of BD is 10 units, the length of BC is 13 units, and the length of CN is 14 units. It is known that line segment DB is perpendicular to line segment BC, line segment BC is perpendicular to line segment NC, and line segment AN is perpendicular to line segment NC. Using this information, find the area of figure ADBCN. Round your answer to the nearest tenth if necessary.",
+        "choice": [
+            "A: 161",
+            "B: 198",
+            "C: 178",
+            "D: 112"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/41.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/41_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/41_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/41_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/41_Auxiliary_lines_negative3.png"
+        },
+        "id": 33
+    },
+    {
+        "question": "In regular pentagon ABCDE, the side length is 6 units. Draw diagonals AC and AD. Calculate the area of triangle ACD.",
+        "choice": [
+            "A: 45",
+            "B: 36",
+            "C: 78",
+            "D: 12"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/42.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/42_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/42_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/42_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/42_Auxiliary_lines_negative3.png"
+        },
+        "id": 28
+    },
+    {
+        "question": "In regular hexagon ABCDEF, the side length is 8 units. Draw diagonals AC and BD. Using this information, calculate the area of quadrilateral ABCD.",
+        "choice": [
+            "A: 83",
+            "B: 36",
+            "C: 88",
+            "D: 112"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/43.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/43_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/43_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/43_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/43_Auxiliary_lines_negative3.png"
+        },
+        "id": 22
+    },
+    {
+        "question": "Octagon ABCDEFGH, AB BC CD has sides of 6 units and angle ACD is 120 degrees. Calculate the area of ​​triangle ACD.",
+        "choice": [
+            "A: 10",
+            "B: 16",
+            "C: 18",
+            "D: 12"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/45.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/45_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/45_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/45_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/45_Auxiliary_lines_negative3.png"
+        },
+        "id": 11
+    },
+    {
+        "question": "In regular pentagon ABCDE, the side length is 8 units. Draw diagonals AC and BD. Find the area of triangle ABD.",
+        "choice": [
+            "A: 49",
+            "B: 36",
+            "C: 78",
+            "D: 12"
+        ],
+        "answer": "A",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/46.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/46_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/46_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/46_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/46_Auxiliary_lines_negative3.png"
+        },
+        "id": 35
+    },
+    {
+        "question": "In circle O, the radius is 10 units, and chord AB is 16 units long. The distance from the center of the circle O to the midpoint P of AB is 6 units. Using this information, calculate the area of triangle OAP.",
+        "choice": [
+            "A: 11",
+            "B: 36",
+            "C: 28",
+            "D: 24"
+        ],
+        "answer": "D",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/47.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/47_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/47_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/47_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/47_Auxiliary_lines_negative3.png"
+        },
+        "id": 25
+    },
+    {
+        "question": "In rhombus ABCD, point E is on diagonal AC such that AE:EC = 2:3. If the area of triangle BED is 24 square units, find the area of the entire rhombus.",
+        "choice": [
+            "A: 61",
+            "B: 96",
+            "C: 78",
+            "D: 92"
+        ],
+        "answer": "B",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/48.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/48_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/48_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/48_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/48_Auxiliary_lines_negative3.png"
+        },
+        "id": 22
+    },
+    {
+        "question": "Two circles with centers O₁ and O₂ intersect at points A and B. If O₁O₂ = 10 units, and the radius of each circle is 6 units, find the length of chord AB.",
+        "choice": [
+            "A: 11",
+            "B: 16",
+            "C: 18",
+            "D: 10"
+        ],
+        "answer": "D",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/49.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/49_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/49_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/49_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/49_Auxiliary_lines_negative3.png"
+        },
+        "id": 43
+    },
+    {
+        "question": "Circle O has radius 10 units. Points A, B, and C lie on the circle such that AB = BC = 10 units. Find the area of triangle ABC.",
+        "choice": [
+            "A: 61",
+            "B: 36",
+            "C: 78",
+            "D: 43"
+        ],
+        "answer": "D",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/50.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/50_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/50_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/50_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/50_Auxiliary_lines_negative3.png"
+        },
+        "id": 22
+    },
+    {
+        "question": "Circle O has a radius of 10 units. Two parallel chords AB and CD are drawn such that AB = 12 units and CD = 16 units. Find the distance between these chords.",
+        "choice": [
+            "A: 11",
+            "B: 16",
+            "C: 14",
+            "D: 8"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/51.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/51_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/51_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/51_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/51_Auxiliary_lines_negative3.png"
+        },
+        "id": 11
+    },
+    {
+        "question": "In rhombus ABCD, ∠BAD = 60°. Point E is the midpoint of side BC, and AE is drawn. If BC = 10 units, find the length of AE.",
+        "choice": [
+            "A: 6.1",
+            "B: 3.6",
+            "C: 8.7",
+            "D: 4.3"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/52.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/52_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/52_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/52_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/52_Auxiliary_lines_negative3.png"
+        },
+        "id": 48
+    },
+    {
+        "question": " In rhombus ABCD, diagonal AC = 16 units and diagonal BD = 12 units. Point E is located on diagonal AC such that AE:EC = 3:1. Find the ratio of the area of triangle BED to the area of triangle CED.",
+        "choice": [
+            "A: 5:1",
+            "B: 3:2",
+            "C: 3:1",
+            "D: 4:3"
+        ],
+        "answer": "C",
+        "category": "Uinfy_capability",
+        "subcategory": "Math_Reasoning",
+        "data": {
+            "image": "Math_Reasoning/Auxiliary_Lines/53.png",
+            "image_Auxiliary_lines": "Math_Reasoning/Auxiliary_Lines/53_Auxiliary_lines.png",
+            "image_Auxiliary_lines_negative1": "Math_Reasoning/Auxiliary_Lines/53_Auxiliary_lines_negative1.png",
+            "image_Auxiliary_lines_negative2": "Math_Reasoning/Auxiliary_Lines/53_Auxiliary_lines_negative2.png",
+            "image_Auxiliary_lines_negative3": "Math_Reasoning/Auxiliary_Lines/53_Auxiliary_lines_negative3.png"
+        },
+        "id": 35
+    }
+]
