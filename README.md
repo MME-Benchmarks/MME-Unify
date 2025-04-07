@@ -5,7 +5,7 @@
 </p>
 
 <font size=7><div align='center' >  
-[[📖 arXiv Paper](https://arxiv.org/abs/2502.10391)] 
+[[📖 arXiv Paper](https://arxiv.org/abs/2504.03641)] 
 [[📊 MME-Unify Data](https://huggingface.co/datasets/wulin222/MME-Unify)] 
 [[📝 Homepage](https://mme-unify.github.io/)] 
 
@@ -101,11 +101,14 @@ Please send an email to **yifanzhang.cs@gmail.com**. 🌟
 
 If you find it useful for your research and applications, please cite related papers/blogs using this BibTeX:
 ```bibtex
-@article{zhang2025mm,
-  title={MM-RLHF: The Next Step Forward in Multimodal LLM Alignment},
-  author={Zhang, Yi-Fan and Yu, Tao and Tian, Haochen and Fu, Chaoyou and Li, Peiyan and Zeng, Jianshu and Xie, Wulin and Shi, Yang and Zhang, Huanyu and Wu, Junkang and others},
-  journal={arXiv preprint arXiv:2502.10391},
-  year={2025}
+@misc{xie2025mmeunifycomprehensivebenchmarkunified,
+      title={MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models}, 
+      author={Wulin Xie and Yi-Fan Zhang and Chaoyou Fu and Yang Shi and Bingyan Nie and Hongkai Chen and Zhang Zhang and Liang Wang and Tieniu Tan},
+      year={2025},
+      eprint={2504.03641},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.03641}, 
 }
 ```
 
