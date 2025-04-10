@@ -101,14 +101,11 @@ Please send an email to **yifanzhang.cs@gmail.com**. 🌟
 
 If you find it useful for your research and applications, please cite related papers/blogs using this BibTeX:
 ```bibtex
-@misc{xie2025mmeunifycomprehensivebenchmarkunified,
-      title={MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models}, 
-      author={Wulin Xie and Yi-Fan Zhang and Chaoyou Fu and Yang Shi and Bingyan Nie and Hongkai Chen and Zhang Zhang and Liang Wang and Tieniu Tan},
-      year={2025},
-      eprint={2504.03641},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2504.03641}, 
+@article{xie2025mme,
+  title={MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models},
+  author={Xie, Wulin and Zhang, Yi-Fan and Fu, Chaoyou and Shi, Yang and Nie, Bingyan and Chen, Hongkai and Zhang, Zhang and Wang, Liang and Tan, Tieniu},
+  journal={arXiv preprint arXiv:2504.03641},
+  year={2025}
 }
 ```
 
